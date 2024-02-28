@@ -8,6 +8,8 @@ Let's discover **Docusaurus in less than 5 minutes**.
 
 # Autodeployment Test
 
+# Autodeployment Test 2
+
 ## Getting Started
 
 Get started by **creating a new site**.
