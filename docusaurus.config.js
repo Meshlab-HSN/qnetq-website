@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Q-net-Q',
-  tagline: 'Forschungsprojekt Q-net-Q',
+  title: 'My Site',
+  tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'Q-net-Q', // Usually your repo name.
+  projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -66,10 +66,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        //title: 'Q-net-Q', // written next to the logo
+        title: 'My Site',
         logo: {
-          alt: 'Q-net-Q',
-          src: 'img/logo_Q-net-Q.png',
+          alt: 'My Site Logo',
+          src: 'img/logo.svg',
         },
         items: [
           {
@@ -78,12 +78,12 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          /* {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          }, */
+          },
         ],
       },
       footer: {
@@ -116,24 +116,16 @@ const config = {
             ],
           },
           {
-            title: 'Mehr',
+            title: 'More',
             items: [
               {
-                label: 'HS Nordhausen',
-                href: 'https://www.hs-nordhausen.de/aktuelles/pressemitteilungen/news-presse-details/2028-auf-der-zukuenftigen-quantenautobahn-fuehrt-kein-weg-mehr-an-thueringen-vorbei/aeedcde2629937684b7dd308079c1b21/',
-              },
-              {
-                label: 'BBF',
-                href: 'https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/q-net-q',
-              },
-              /* {
                 label: 'Blog',
                 to: '/blog',
               },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
-              }, */
+              },
             ],
           },
         ],

@@ -32,9 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      // title={`Hello from ${siteConfig.title}`}
-      title={`Forschungsprojekt ${siteConfig.title}`}
-      description="Neuer Knotenpunkt für Quantenkommunikation in Deutschland entsteht in Erfurt / Startschuss für neues Forschungsprojekt Q-net-Qtion will go into a meta tag in <head />">
+      title={`Hello from ${siteConfig.title}`}
+      description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
