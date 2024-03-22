@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/Collaboration/dummy',
+                to: '/docs/category/q-net-q',
               },
             ],
           },
