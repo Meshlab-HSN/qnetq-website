@@ -1,0 +1,10 @@
+{
+  "logo.alt": {
+    "message": "Q-net-Q",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Content": {
+    "message": "Inhalt",
+    "description": "Navbar item with label Content"
+  }
+}

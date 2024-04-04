@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Q-net-Q',
-  tagline: 'Forschungsprojekt Q-net-Q',
+  tagline: 'Research project Q-net-Q',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -31,7 +31,18 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'de'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+        label: 'English',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      de: {
+        htmlLang: 'de-DE',
+        label: 'Deutsch',
+      },
+    },
   },
 
   presets: [
@@ -44,14 +55,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/marc-b2/qnetq-website/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/marc-b2/qnetq-website/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -64,19 +75,20 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      //image: 'img/docusaurus-social-card.jpg',
       navbar: {
         //title: 'Q-net-Q', // written next to the logo
         logo: {
           alt: 'Q-net-Q',
-          src: 'img/logo_Q-net-Q.png',
+          src: 'img/qnq_logo_black.png',
+          srcDark: 'img/qnq_logo_white.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Menu',
+            label: 'Content',
           },
           /* {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -84,6 +96,10 @@ const config = {
             label: 'GitHub',
             position: 'right',
           }, */
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       footer: {

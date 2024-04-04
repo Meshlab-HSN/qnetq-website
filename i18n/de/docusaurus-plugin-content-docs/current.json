@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Collaboration": {
+    "message": "Mitarbeit",
+    "description": "The label for category Collaboration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Open_Quantum_Stack": {
+    "message": "Open_Quantum_Stack",
+    "description": "The label for category Open_Quantum_Stack in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Our_Testbed": {
+    "message": "Unser Testbett",
+    "description": "The label for category Our_Testbed in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Q-net-Q_Team": {
+    "message": "Q-net-Q_Team",
+    "description": "The label for category Q-net-Q_Team in sidebar tutorialSidebar"
+  }
+}
