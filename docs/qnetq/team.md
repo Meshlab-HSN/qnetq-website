@@ -3,5 +3,5 @@ sidebar_position: 2
 description: description here
 ---
 
-# Team
+# Our Team
 

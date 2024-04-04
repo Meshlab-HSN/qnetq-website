@@ -3,4 +3,4 @@ sidebar_position: 1
 description: description here
 ---
 
-# 1st Testbed Trusted Node
+# 1st: Trusted Node
