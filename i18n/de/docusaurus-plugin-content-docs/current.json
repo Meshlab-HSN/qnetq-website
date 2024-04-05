@@ -3,44 +3,20 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Q-net-Q": {
-    "message": "Q-net-Q",
-    "description": "The label for category Q-net-Q in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Q-net-Q.link.generated-index.description": {
-    "message": "short description here",
-    "description": "The generated-index page description for category Q-net-Q in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Testbeds": {
-    "message": "Testbeds",
-    "description": "The label for category Testbeds in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Testbeds.link.generated-index.description": {
-    "message": "short description here",
-    "description": "The generated-index page description for category Testbeds in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Research & Development": {
-    "message": "Forschung & Entwicklung",
-    "description": "The label for category Research & Development in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Research & Development.link.generated-index.description": {
-    "message": "short description here",
-    "description": "The generated-index page description for category Research & Development in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Software": {
+  "sidebar.rndSidebar.category.Software": {
     "message": "Software",
-    "description": "The label for category Software in sidebar tutorialSidebar"
+    "description": "The label for category Software in sidebar rndSidebar"
   },
-  "sidebar.tutorialSidebar.category.Software.link.generated-index.description": {
+  "sidebar.rndSidebar.category.Software.link.generated-index.description": {
     "message": "short description here",
-    "description": "The generated-index page description for category Software in sidebar tutorialSidebar"
+    "description": "The generated-index page description for category Software in sidebar rndSidebar"
   },
-  "sidebar.tutorialSidebar.category.Infrastructure": {
-    "message": "Infrastruktur",
-    "description": "The label for category Infrastructure in sidebar tutorialSidebar"
+  "sidebar.rndSidebar.category.Infrastructure": {
+    "message": "Infrastructure",
+    "description": "The label for category Infrastructure in sidebar rndSidebar"
   },
-  "sidebar.tutorialSidebar.category.Infrastructure.link.generated-index.description": {
+  "sidebar.rndSidebar.category.Infrastructure.link.generated-index.description": {
     "message": "short description here",
-    "description": "The generated-index page description for category Infrastructure in sidebar tutorialSidebar"
+    "description": "The generated-index page description for category Infrastructure in sidebar rndSidebar"
   }
 }
