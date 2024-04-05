@@ -120,24 +120,24 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Community',
+            title: 'Legal',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Legal notice',
+                href: '/footer/legal_notice',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'GDPR',
+                href: '/footer/gdpr',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Contact',
+                href: '/footer/contact',
               },
             ],
           },
           {
-            title: 'Mehr',
+            title: 'More',
             items: [
               {
                 label: 'HS Nordhausen',
@@ -147,18 +147,10 @@ const config = {
                 label: 'BBF',
                 href: 'https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/q-net-q',
               },
-              /* {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              }, */
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} - Nordhausen University of Applied Sciences`,
       },
       prism: {
         theme: prismThemes.github,
