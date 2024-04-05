@@ -59,6 +59,8 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          path: 'news',
+          routeBasePath: "news",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -102,7 +104,7 @@ const config = {
             position: 'left',
             label: 'Research & Development',
           },
-          {to: '/blog', label: 'News', position: 'left'},
+          {to: '/news', label: 'News', position: 'left'},
           /* {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
