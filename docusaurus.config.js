@@ -86,9 +86,21 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'qnetqSidebar',
             position: 'left',
-            label: 'Content',
+            label: 'About',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'testbedsSidebar',
+            position: 'left',
+            label: 'Testbeds',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'rndSidebar',
+            position: 'left',
+            label: 'Research & Development',
           },
           /* {to: '/blog', label: 'Blog', position: 'left'},
           {
