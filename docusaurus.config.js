@@ -102,8 +102,8 @@ const config = {
             position: 'left',
             label: 'Research & Development',
           },
-          /* {to: '/blog', label: 'Blog', position: 'left'},
-          {
+          {to: '/blog', label: 'News', position: 'left'},
+          /* {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
