@@ -13,7 +13,7 @@ Take a look at the [official documentation](https://docusaurus.io/docs) to learn
 
 ## Generate website and start server for local development
 
-When working on a local copy of the repository it can be very hany to preview your changes before committing. The *Docusaurus* developers implemented a *development server* exactly intended for this purpose. It starts a server to host the generated website that is capable of reflecting changes immediately after saving a file without the need to restart the server in most of the times.
+When working on a local copy of the repository it can be very handy to preview your changes before committing. The *Docusaurus* developers implemented a *development server* exactly intended for this purpose. It starts a server to host the generated website that is capable of reflecting changes immediately after saving a file without the need to restart the server in most of the times.
 
 *Docusaurus* uses the *Yarn* package manager to download dependencies and to start build and server tasks. So after installing the latest version of [*Classic Yarn*](https://classic.yarnpkg.com/en/docs/install) on your system and cloning the repo to your hard disk you can open a terminal, cd into the repo folder and simply execute
 ```console
@@ -37,10 +37,17 @@ This will do a full fletched static build of the website just like our productio
 
 ## Create Content
 
+### Docs
 All content is written in *md* or *mdx* files which are located in the `docs/` directory.
 
-By default *Docusaurus* would use the structure of all its sub folders, as well as the first headline in each file, to automatically create the navigation sidebar to the left in the generated website. To better fit our needs we made some changes to this behavior. Instead of having one big sidebar for all the child elements of the `docs/` directory we moved the location of the buttons for the first level of sub folders to the navigation bar on top of the site and split up the sidebar to be generated from inside the respective sub folder. So hitting one of this buttons on top will open a site with its own sidebar.  
-That means files or a folders created directly under `docs/` will **not** be processed automatically and must be added to the navigation bar manually instead.
+By default *Docusaurus* would use the structure of all sub folders of `docs/`, as well as the first headline in each *Markdown* file, to automatically create the navigation sidebar to the left in the generated website. To better fit our needs we made some changes to this behavior. Instead of having one big sidebar for all the child elements of the `docs/` directory we moved the location of the buttons for the first level of sub folders to the navigation bar on top of the site and split up the sidebar to be generated from inside the respective sub folder. So hitting one of this buttons on top will open a site with its own sidebar.
 
+That means files or folders created directly under `docs/` will **not** be processed automatically and must be added to the navigation bar manually instead.
+
+### News
+We are making use of *Docusaurus' Blog* feature to share our news. It works quite similar to the docs feature having one base folder, namely `news/`, where all the folders and *Markdown* files are located. For any further information of how to create posts, how the sidebar works etc. please refer to the [official documentation](https://docusaurus.io/docs/blog).  
+Before going there, please consider that the base folder by default would be named `blog/` and is just for our purposes renamed to `news/`.
+
+### Localization
 The default language of our website is English, but we are using the *i18n* plugin to provide versions of the website in other languages. The `i18n/` folder contains all the translation files. There are *json* files to cover react code pages and all elements on the site like buttons, menu items etc. and there is a copy of every *Markdown* file.  
 Translations must be done manually.
