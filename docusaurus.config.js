@@ -65,6 +65,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/marc-b2/qnetq-website/tree/main/',
+          blogTitle: 'News',
+          blogDescription: 'News from the Q-net-Q project.',
         },
         theme: {
           customCss: './src/css/custom.css',
