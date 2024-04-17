@@ -1,1 +1,0 @@
-# Open Quantum Stack

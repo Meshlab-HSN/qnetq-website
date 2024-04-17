@@ -3,20 +3,20 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Collaboration": {
-    "message": "Mitarbeit",
-    "description": "The label for category Collaboration in sidebar tutorialSidebar"
+  "sidebar.rndSidebar.category.Software": {
+    "message": "Software",
+    "description": "The label for category Software in sidebar rndSidebar"
   },
-  "sidebar.tutorialSidebar.category.Open_Quantum_Stack": {
-    "message": "Open_Quantum_Stack",
-    "description": "The label for category Open_Quantum_Stack in sidebar tutorialSidebar"
+  "sidebar.rndSidebar.category.Software.link.generated-index.description": {
+    "message": "short description here",
+    "description": "The generated-index page description for category Software in sidebar rndSidebar"
   },
-  "sidebar.tutorialSidebar.category.Our_Testbed": {
-    "message": "Unser Testbett",
-    "description": "The label for category Our_Testbed in sidebar tutorialSidebar"
+  "sidebar.rndSidebar.category.Infrastructure": {
+    "message": "Infrastructure",
+    "description": "The label for category Infrastructure in sidebar rndSidebar"
   },
-  "sidebar.tutorialSidebar.category.Q-net-Q_Team": {
-    "message": "Q-net-Q_Team",
-    "description": "The label for category Q-net-Q_Team in sidebar tutorialSidebar"
+  "sidebar.rndSidebar.category.Infrastructure.link.generated-index.description": {
+    "message": "short description here",
+    "description": "The generated-index page description for category Infrastructure in sidebar rndSidebar"
   }
 }

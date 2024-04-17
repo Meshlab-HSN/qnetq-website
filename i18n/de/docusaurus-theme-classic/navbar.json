@@ -3,8 +3,20 @@
     "message": "Q-net-Q",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Content": {
-    "message": "Inhalt",
-    "description": "Navbar item with label Content"
+  "item.label.About": {
+    "message": "Über",
+    "description": "Navbar item with label About"
+  },
+  "item.label.Testbeds": {
+    "message": "Testbeds",
+    "description": "Navbar item with label Testbeds"
+  },
+  "item.label.Research & Development": {
+    "message": "Forschung & Entwicklung",
+    "description": "Navbar item with label Research & Development"
+  },
+  "item.label.News": {
+    "message": "News",
+    "description": "Navbar item with label News"
   }
 }

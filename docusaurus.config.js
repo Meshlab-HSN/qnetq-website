@@ -59,10 +59,14 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          path: 'news',
+          routeBasePath: "news",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/marc-b2/qnetq-website/tree/main/',
+          blogTitle: 'News',
+          blogDescription: 'News from the Q-net-Q project.',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -86,12 +90,24 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'qnetqSidebar',
             position: 'left',
-            label: 'Content',
+            label: 'About',
           },
-          /* {to: '/blog', label: 'Blog', position: 'left'},
           {
+            type: 'docSidebar',
+            sidebarId: 'testbedsSidebar',
+            position: 'left',
+            label: 'Testbeds',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'rndSidebar',
+            position: 'left',
+            label: 'Research & Development',
+          },
+          {to: '/news', label: 'News', position: 'left'},
+          /* {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
@@ -106,33 +122,24 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Legal',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/Collaboration/dummy',
+                label: 'Legal notice',
+                href: '/footer/legal_notice',
+              },
+              {
+                label: 'GDPR',
+                href: '/footer/gdpr',
+              },
+              {
+                label: 'Contact',
+                href: '/footer/contact',
               },
             ],
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'Mehr',
+            title: 'More',
             items: [
               {
                 label: 'HS Nordhausen',
@@ -142,18 +149,10 @@ const config = {
                 label: 'BBF',
                 href: 'https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/q-net-q',
               },
-              /* {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              }, */
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} - Nordhausen University of Applied Sciences`,
       },
       prism: {
         theme: prismThemes.github,
