@@ -30,5 +30,9 @@
   "link.item.label.Imprint": {
     "message": "Impressum",
     "description": "The label of footer link with label=Imprint linking to /footer/legal_notice"
+  },
+  "link.item.label.BMBF": {
+    "message": "BMBF",
+    "description": "The label of footer link with label=BMBF linking to https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/q-net-q"
   }
 }

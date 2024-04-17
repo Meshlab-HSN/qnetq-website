@@ -146,7 +146,7 @@ const config = {
                 href: 'https://www.hs-nordhausen.de/aktuelles/pressemitteilungen/news-presse-details/2028-auf-der-zukuenftigen-quantenautobahn-fuehrt-kein-weg-mehr-an-thueringen-vorbei/aeedcde2629937684b7dd308079c1b21/',
               },
               {
-                label: 'BBF',
+                label: 'BMBF',
                 href: 'https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/q-net-q',
               },
             ],
