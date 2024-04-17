@@ -125,13 +125,13 @@ const config = {
             title: 'Legal',
             items: [
               {
-                label: 'Legal notice',
+                label: 'Imprint',
                 href: '/footer/legal_notice',
               },
-              {
-                label: 'GDPR',
-                href: '/footer/gdpr',
-              },
+              // {
+              //   label: 'GDPR',
+              //   href: '/footer/gdpr',
+              // },
               {
                 label: 'Contact',
                 href: '/footer/contact',

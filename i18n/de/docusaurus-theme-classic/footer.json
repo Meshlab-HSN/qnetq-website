@@ -19,10 +19,6 @@
     "message": "Mehr",
     "description": "The title of the footer links column with title=More in the footer"
   },
-  "link.item.label.Legal notice": {
-    "message": "Impressum",
-    "description": "The label of footer link with label=Legal notice linking to /footer/legal_notice"
-  },
   "link.item.label.GDPR": {
     "message": "DSGVO",
     "description": "The label of footer link with label=GDPR linking to /footer/gdpr"
@@ -30,5 +26,9 @@
   "link.item.label.Contact": {
     "message": "Kontakt",
     "description": "The label of footer link with label=Contact linking to /footer/contact"
+  },
+  "link.item.label.Imprint": {
+    "message": "Impressum",
+    "description": "The label of footer link with label=Imprint linking to /footer/legal_notice"
   }
 }

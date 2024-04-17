@@ -294,5 +294,9 @@
   "theme.docs.DocCard.categoryDescription.plurals": {
     "message": "{count} Einträge",
     "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} Einträge",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
   }
 }
