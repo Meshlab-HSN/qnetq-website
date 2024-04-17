@@ -31,8 +31,17 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+.hero--primary {
+  --ifm-hero-background-color: #b3cbc4;
+  --ifm-hero-text-color: var(--ifm-font-color-base-inverse);
+}
+
 .navbar__brand {
   position: absolute;
   left: 50%;
   transform: translate(-50%, 0);
+}
+
+.main_logo {
+  max-width: 50%;
 }
