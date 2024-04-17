@@ -36,19 +36,13 @@
   --ifm-hero-text-color: var(--ifm-font-color-base-inverse);
 }
 
-.navbar__brand {
+/* .navbar__brand {
   position: absolute;
   left: 50%;
   transform: translate(-50%, 0);
-}
+} */
 
 .main_logo {
   max-width: 50%;
-}
-
-.navbar__brand {
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%, 0);
 }
 

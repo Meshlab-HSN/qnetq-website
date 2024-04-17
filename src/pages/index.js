@@ -13,18 +13,18 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
-          {/* {siteConfig.title} */}
-          {/* <Translate> */}
+        {/* <Heading as="h1" className="hero__title">
+          {siteConfig.title}
+          <Translate>
             Q-net-Q
-          {/* </Translate> */}
+          </Translate>
         </Heading>
         <p className="hero__subtitle">
-          {/* {siteConfig.tagline} */}
+          {siteConfig.tagline}
           <Translate>
             Research project Q-net-Q
           </Translate>
-        </p>
+        </p>*/}
         <img class="main_logo" src="img/qnq_deploymentspng.png"></img>
         <div className={styles.buttons}>
           {/* <Link
