@@ -69,7 +69,8 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          <div className={clsx('col col--4')}>
+          <div className={clsx('col')}></div>
+          <div className={clsx('col')}>
             <div className="text--center">
               <img className={styles.featureSvg} role="img" src="img/undraw_docusaurus_mountain.svg"/>
             </div>
@@ -86,8 +87,27 @@ export default function HomepageFeatures() {
               </p>
             </div>
           </div>
+          <div className={clsx('col')}></div>
         </div>
       </div>
     </section>
   );
 }
+
+
+
+{/* <div className="text--center">
+<img className={styles.featureSvg} role="img" src="img/undraw_docusaurus_mountain.svg"/>
+</div>
+<div className="text--center padding-horiz--md">
+<Heading as="h3">
+  <Translate>
+    Easy to Use
+  </Translate>
+</Heading>
+<p>
+  <Translate>
+    Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.
+  </Translate>
+</p>
+</div> */}
