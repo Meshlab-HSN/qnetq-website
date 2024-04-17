@@ -4,3 +4,7 @@ description: description here
 ---
 
 # Veröffentlichungen
+
+:::caution Caution!
+Stay tuned! Updates will follow soon...
+:::

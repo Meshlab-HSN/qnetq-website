@@ -4,3 +4,7 @@ description: description here
 ---
 
 # 3rd: WAN Link
+
+:::caution Caution!
+Stay tuned! Updates will follow soon...
+:::
