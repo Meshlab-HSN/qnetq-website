@@ -126,7 +126,7 @@ const config = {
             items: [
               {
                 label: 'Imprint',
-                href: '/footer/legal_notice',
+                href: '/footer/imprint',
               },
               // {
               //   label: 'GDPR',

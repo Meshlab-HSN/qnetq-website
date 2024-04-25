@@ -29,7 +29,7 @@
   },
   "link.item.label.Imprint": {
     "message": "Impressum",
-    "description": "The label of footer link with label=Imprint linking to /footer/legal_notice"
+    "description": "The label of footer link with label=Imprint linking to /footer/imprint"
   },
   "link.item.label.BMBF": {
     "message": "BMBF",
