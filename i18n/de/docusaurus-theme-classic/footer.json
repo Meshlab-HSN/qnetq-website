@@ -34,5 +34,9 @@
   "link.item.label.BMBF": {
     "message": "BMBF",
     "description": "The label of footer link with label=BMBF linking to https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/q-net-q"
+  },
+  "link.item.label.Privacy": {
+    "message": "Datenschutz",
+    "description": "The label of footer link with label=Privacy linking to /footer/privacy"
   }
 }

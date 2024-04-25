@@ -128,10 +128,10 @@ const config = {
                 label: 'Imprint',
                 href: '/footer/imprint',
               },
-              // {
-              //   label: 'GDPR',
-              //   href: '/footer/gdpr',
-              // },
+              {
+                label: 'Privacy',
+                href: '/footer/privacy',
+              },
               {
                 label: 'Contact',
                 href: '/footer/contact',

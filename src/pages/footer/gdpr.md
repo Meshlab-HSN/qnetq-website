@@ -1,3 +1,0 @@
-# GDPR
-
-content here
