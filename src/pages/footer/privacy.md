@@ -1,17 +1,18 @@
-# Datenschutzerklärung
+# Privacy policy
 
-## Name und Anschrift des Verantwortlichen
+## Name and address of the responsible person
 
-Hochschule Nordhausen,  
-verteten durch den Präsidenten, Prof. Dr. Jörg Wagner  
+University of Nordhausen,  
+by the president, Prof. Dr. Jörg Wagner  
 Weinberghof 4  
-99734 Nordhausen
+99734 Nordhausen  
+Germany
 
 Tel.: 03631 420-100  
 Fax: 03631 420-810  
 E-Mail: praesident@hs-nordhausen.de
 
-## Datenschutzbeauftragte
+## Data Protection Oficer
 
 **Sabine Ohrdorf**
 
@@ -19,146 +20,133 @@ Tel.: 03631 420-209
 Fax: 03631 420-810  
 E-Mail: datenschutz@hs-nordhausen.de
 
-## Allgemeines zur Datenverarbeitung
+## General information about data processing
 
-### 1. Umfang der Verarbeitung personenbezogener Daten  
-Wir verarbeiten personenbezogene Daten unserer Nutzer grundsätzlich nur, soweit dies zur Bereitstellung einer funktionsfähigen Website sowie unserer Inhalte und Leistungen erforderlich ist. Die Verarbeitung personenbezogener Daten unserer Nutzer erfolgt regelmäßig nur nach Einwilligung des Nutzers. Eine Ausnahme gilt in solchen Fällen, in denen eine vorherige Einholung einer Einwilligung aus tatsächlichen Gründen nicht möglich ist und die Verarbeitung der Daten durch gesetzliche Vorschriften gestattet ist.
+### 1. Scope of processing of personal data
+In principle, we process personal data of our users only insofar as this is necessary to provide a functioning website and our content and services. The processing of personal data of our users takes place regularly only with the consent of the user. An exception applies to cases in which prior consent can not be obtained for reasons of fact and the processing of the data is permitted by law.
 
-### 2. Rechtsgrundlage für die Verarbeitung personenbezogener Daten  
-Soweit wir für Verarbeitungsvorgänge personenbezogener Daten eine Einwilligung der betroffenen Person einholen, dient Art. 6 Abs. 1 lit. a EU-Datenschutzgrundverordnung (DSGVO) als Rechtsgrundlage.  
-Bei der Verarbeitung von personenbezogenen Daten, die zur Erfüllung eines Vertrages, dessen Vertragspartei die betroffene Person ist, erforderlich ist, dient Art. 6 Abs. 1 lit. b DSGVO als Rechtsgrundlage. Dies gilt auch für Verarbeitungsvorgänge, die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind.  
-Soweit eine Verarbeitung personenbezogener Daten zur Erfüllung einer rechtlichen Verpflichtung erforderlich ist, der unser Unternehmen unterliegt, dient Art. 6 Abs. 1 lit. c DSGVO als Rechtsgrundlage.  
-Für den Fall, dass lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person eine Verarbeitung personenbezogener Daten erforderlich machen, dient Art. 6 Abs. 1 lit. d DSGVO als Rechtsgrundlage.  
-Ist die Verarbeitung für die Wahrnehmung einer Aufgabe erforderlich, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde, so dient Art. 6 Abs. 1 lit. e DSGVO als Rechtsgrundlage für die Verarbeitung.  
-Ist die Verarbeitung zur Wahrung eines berechtigten Interesses unseres Unternehmens oder eines Dritten erforderlich und überwiegen die Interessen, Grundrechte und Grundfreiheiten des Betroffenen das erstgenannte Interesse nicht, so dient Art. 6 Abs. 1 lit. f DSGVO als Rechtsgrundlage für die Verarbeitung.
+### 2. Legal basis for the processing of personal data
+Insofar as we obtain the consent of the data subject for processing of personal data, Art. 6 para. 1 lit. a EU General Data Protection Regulation (GDPR) as legal basis.  
+In the processing of personal data necessary for the performance of a contract to which the data subject is a party, Art. 6 para. 1 lit. b DSGVO as legal basis. This also applies to processing operations required to carry out pre-contractual actions.
+Insofar as processing of personal data is required to fulfill a legal obligation that is subject to our company, Art. 6 para. 1 lit. c DSGVO as legal basis.  
+In the event that vital interests of the data subject or another natural person require the processing of personal data, Art. 6 para. 1 lit. d DSGVO as legal basis.  
+If processing is necessary to safeguard the legitimate interests of our company or a third party, and if the interests, fundamental rights and freedoms of the data subject do not prevail over the first interest, Art. 6 para. 1 lit. f DSGVO as legal basis for processing.
 
-### 3. Datenlöschung und Speicherdauer  
-Die personenbezogenen Daten der betroffenen Person werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt. Eine Speicherung kann darüber hinaus erfolgen, wenn dies durch den europäischen oder nationalen Gesetzgeber in unionsrechtlichen Verordnungen, Gesetzen oder sonstigen Vorschriften, denen der Verantwortliche unterliegt, vorgesehen wurde. Eine Sperrung oder Löschung der Daten erfolgt auch dann, wenn eine durch die genannten Normen vorgeschriebene Speicherfrist abläuft, es sei denn, dass eine Erforderlichkeit zur weiteren Speicherung der Daten für einen Vertragsabschluss oder eine Vertragserfüllung besteht. Die Länge der Aufbewahrung von Unterlagen an der Hochschule Nordhausen wird insbesondere durch die „Richtlinie über die Aufbewahrung von Schriftgut in der Verwaltung des Freistaats Thüringen“ geregelt. In einem Anhang zur Richtlinie sind die einzelnen Aufbewahrungszeiten für die jeweilige Art von Informationen aufgeführt. Sie finden die Richtlinie abrufbar im Bürgerservice Thüringen unter www.landesrecht.thueringen.de/bsth/document/VVTH-VVTH000008524.
+### 3. Data deletion and storage duration
+The personal data of the data subject will be deleted or blocked as soon as the purpose of the storage is deleted. In addition, such storage may be provided for by the European or national legislator in EU regulations, laws or other regulations to which the controller is subject. Blocking or deletion of the data also takes place when a storage period prescribed by the standards mentioned expires, unless there is a need for further storage of the data for conclusion of a contract or fulfillment of the contract.
 
-## Speicherung von Informationen
-Bei jedem Aufruf unserer Website werden in unseren Server-Logfiles Daten und Informationen erfasst, die von Ihrem Browser übermittelt werden:
+## Storage of information
 
-* Informationen zu Browsertyp/-version,
-* verwendetes Betriebssystem,
-* Referer-URL,
-* IP-Adresse des Nutzers,
-* Datum und Uhrzeit des Zugriffs
+Each time you visit our website, data and information transmitted by your browser are recorded in our server log files:
 
-Eine Speicherung dieser Daten zusammen mit den anderen personenbezogenen Daten des Nutzers findet nicht statt. Die Daten dienen der Auswertung zur Systemsicherheit und -stabilität, der Aufklärung missbräuchlicher Nutzung und der Gewährleistung einer komfortablen Nutzung unserer Website. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen, die Daten werden zudem nach einer statistischen Auswertung regelmäßig gelöscht. Es erfolgt keine Weitergabe an Dritte.
+* Information about browser type / version,
+* used operating system,
+* Referer URL,
+* IP address of the user,
+* Date and time of access
 
-#### Rechtsgrundlage für die Datenverarbeitung
+A storage of this data together with the other personal data of the user does not take place. The data is used to evaluate system security and stability, to investigate misuse and to ensure the comfortable use of our website. A merge of this data with other data sources is not performed, the data are also regularly deleted after a statistical evaluation. It will not be passed on to third parties.
 
-Rechtsgrundlage für die vorübergehende Speicherung der Daten und der Logfiles ist Art. 6 Abs. 1 lit. f DSGVO.
+#### Legal basis for data processing
 
-## Verschlüsselung
+The legal basis for the temporary storage of data and log files is Art. 6 para. 1 lit. f DSGVO.
 
-Aus Gründen der Sicherheit und des Datenschutzes benutzt die Hochschule Nordhausen bei der Übertragung der Inhalte eine SSL-Verschlüsselung, die man in der URL an "https://..." und einem geschlossenen Schlosssymbol im Browser erkennt.
+## Encryption
 
-## Kontaktaufnahmen (Kontaktformulare und E-Mail-Kontakt)
+For reasons of security and data protection, Nordhausen University of Applied Sciences uses an SSL encryption when transferring the content, which is recognized in the URL at "https: // ..." and a closed lock symbol in the Browser.
 
-Die Kontaktaufnahme über ein Kontaktformular oder per E-Mail erfolgt in jedem Fall auf freiwilliger Basis.
+## Contact (contact forms and e-mail contact)
 
-Bei Kontaktaufnahme über ein Kontaktformular werden die übermittelten personenbezogenen Daten zum Zweck der Bearbeitung der Anfrage inklusive von Anschlussfragen gespeichert. Für die Verarbeitung der Daten wird im Rahmen des Absendevorgangs Ihre Einwilligung eingeholt und auf diese Datenschutzerklärung verwiesen. Dabei sind die im Kontaktformular gekennzeichneten Pflichtfelder ausschließlich für die Bearbeitung der Anfrage notwendig.
+The contact via a contact form or by e-mail takes place in any case on a voluntary basis.
 
-Bei Kontaktaufnahme per E-Mail werden die übermittelten personenbezogenen Daten zum Zweck der Bearbeitung der Anfrage inklusive von Anschlussfragen gespeichert. Die Daten werden ausschließlich für die Konversation genutzt.
+When contacting via a contact form, the transmitted personal data will be stored for the purpose of processing the request, including follow-up questions. For the processing of the data in the context of the sending process your consent is obtained and referred to this privacy statement. The mandatory fields marked in the contact form are only necessary for processing the request.
 
-In beiden Fällen erfolgt keine Weitergabe der Daten an Dritte.
+When contacting by e-mail the transmitted personal data for the purpose of processing the request, including follow-up questions are stored. The data is used exclusively for the conversation.
 
-## Rechte der betroffenen Personen
+In both cases, the data will not be passed on to third parties.
 
-Werden personenbezogene Daten von Ihnen verarbeitet, sind Sie Betroffener i.S.d. DSGVO und es stehen Ihnen folgende Rechte gegenüber dem Verantwortlichen zu:
+## Rights of persons affected
 
-### 1. Auskunftsrecht
-Sie können von dem Verantwortlichen eine Bestätigung darüber verlangen, ob personenbezogene Daten, die Sie betreffen, von uns verarbeitet werden.  
-Liegt eine solche Verarbeitung vor, können Sie von dem Verantwortlichen über folgende Informationen Auskunft verlangen:
+If you process personal data, you are i.S.d. DSGVO and you have the following rights to the person responsible:
 
-* die Zwecke, zu denen die personenbezogenen Daten verarbeitet werden;
-* die Kategorien von personenbezogenen Daten, welche verarbeitet werden;
-* die Empfänger bzw. die Kategorien von Empfängern, gegenüber denen die Sie betreffenden personenbezogenen Daten offengelegt wurden oder noch offengelegt werden;
-* die geplante Dauer der Speicherung der Sie betreffenden personenbezogenen Daten oder, falls konkrete Angaben hierzu nicht möglich sind, Kriterien für die Festlegung der Speicherdauer;
-* das Bestehen eines Rechts auf Berichtigung oder Löschung der Sie betreffenden personenbezogenen Daten, eines Rechts auf Einschränkung der Verarbeitung durch den Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung;
-* das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde;
-* alle verfügbaren Informationen über die Herkunft der Daten, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden
+### 1. Right to information
+You may ask the person in charge to confirm if personal data concerning you is processed by us.
+If such processing is available, you can request information from the person responsible about the following information:
 
-Ihnen steht das Recht zu, Auskunft darüber zu verlangen, ob die Sie betreffenden personenbezogenen Daten in ein Drittland oder an eine internationale Organisation übermittelt werden. In diesem Zusammenhang können Sie verlangen, über die geeigneten Garantien gem. Art. 46 DSGVO im Zusammenhang mit der Übermittlung unterrichtet zu werden.  
-Datenverarbeitung zu wissenschaftlichen, historischen oder statistischen Forschungszwecken:  
-Dieses Auskunftsrecht kann insoweit beschränkt werden, als es voraussichtlich die Verwirklichung der Forschungs- oder Statistikzwecke unmöglich macht oder ernsthaft beeinträchtigt und die Beschränkung für die Erfüllung der Forschungs- oder Statistikzwecke notwendig ist.
+* the purposes for which the personal data are processed;
+* the categories of personal data that are processed;
+* the recipients or categories of recipients to whom the personal data relating to you have been disclosed or are still being disclosed;
+* the planned duration of the storage of your personal data or, if specific information is not available, criteria for determining the duration of storage;
+* the existence of a right to rectification or erasure of personal data concerning you, a right to restriction of processing by the controller or a right to object to such processing;
+* the existence of a right of appeal to a supervisory authority;
+* all available information on the source of the data if the personal data is not collected from the data subject
 
-### 2. Recht auf Berichtigung
-Sie haben ein Recht auf Berichtigung und/oder Vervollständigung gegenüber dem Verantwortlichen, sofern die verarbeiteten personenbezogenen Daten, die Sie betreffen, unrichtig oder unvollständig sind. Der Verantwortliche hat die Berichtigung unverzüglich vorzunehmen.  
-Bei Datenverarbeitung zu wissenschaftlichen, historischen oder statistischen Forschungszwecken:  
-Ihr Recht auf Berichtigung kann insoweit beschränkt werden, als es voraussichtlich die Verwirklichung der Forschungs- oder Statistikzwecke unmöglich macht oder ernsthaft beeinträchtigt und die Beschränkung für die Erfüllung der Forschungs- oder Statistikzwecke notwendig ist.
+You have the right to request information about whether your personal information relates to a third country or an international organization. In this connection, you can request the appropriate guarantees in accordance with. Art. 46 GDPR in connection with the transfer.  
+Data processing for scientific, historical or statistical research purposes:  
+This right of access may be limited to the extent that it is likely to render impossible or seriously affect the realization of the research or statistical purposes and the restriction is necessary for the performance of the research or statistical purposes.
 
-### 3. Recht auf Einschränkung der Verarbeitung
-Unter den folgenden Voraussetzungen können Sie die Einschränkung der Verarbeitung der Sie betreffenden personenbezogenen Daten verlangen:
+### 2. Right to rectification
+You have a right to rectification and / or completion to the controller, if the personal data you process is incorrect or incomplete. The responsible person must make the correction without delay.  
+For data processing for scientific, historical or statistical research purposes:  
+Its right of rectification may be limited to the extent that it is likely to render impossible or seriously affect the realization of research or statistical purposes and the restriction is necessary for the performance of research or statistical purposes.
 
-* wenn Sie die Richtigkeit der Sie betreffenden personenbezogenen für eine Dauer bestreiten, die es dem Verantwortlichen ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen;
-* die Verarbeitung unrechtmäßig ist und Sie die Löschung der personenbezogenen Daten ablehnen und stattdessen die Einschränkung der Nutzung der personenbezogenen Daten verlangen;
-* der Verantwortliche die personenbezogenen Daten für die Zwecke der Verarbeitung nicht länger benötigt, Sie diese jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen, oder
-* wenn Sie Widerspruch gegen die Verarbeitung gemäß Art. 21 Abs. 1 DSGVO eingelegt haben und noch nicht feststeht, ob die berechtigten Gründe des Verantwortlichen gegenüber Ihren Gründen überwiegen.
+### 3. Right to restriction of processing
+You may request the restriction of the processing of your personal data under the following conditions:
 
-Wurde die Verarbeitung der Sie betreffenden personenbezogenen Daten eingeschränkt, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Union oder eines Mitgliedstaats verarbeitet werden.  
-Wurde die Einschränkung der Verarbeitung nach den o.g. Voraussetzungen eingeschränkt, werden Sie von dem Verantwortlichen unterrichtet bevor die Einschränkung aufgehoben wird.  
-Bei Datenverarbeitung zu wissenschaftlichen, historischen oder statistischen Forschungszwecken:  
-Ihr Recht auf Einschränkung der Verarbeitung kann insoweit beschränkt werden, als es voraussichtlich die Verwirklichung der Forschungs- oder Statistikzwecke unmöglich macht oder ernsthaft beeinträchtigt und die Beschränkung für die Erfüllung der Forschungs- oder Statistikzwecke notwendig ist.
+* if you contest the accuracy of your personal information for a period of time that enables the controller to verify the accuracy of your personal information;
+* the processing is unlawful and you refuse to delete the personal data and instead request the restriction of the use of the personal data;
+* the controller no longer requires personal data for the purposes of processing, but you need them to assert, exercise or defend legal claims, or
+* if you objected to the processing pursuant to Art. 21 (1) GDPR and it is not yet certain whether the legitimate reasons of the person responsible prevail over your reasons.
 
-### 4. Recht auf Löschung
-a) Löschungspflicht  
-Sie können von dem Verantwortlichen verlangen, dass die Sie betreffenden personenbezogenen Daten unverzüglich gelöscht werden, und der Verantwortliche ist verpflichtet, diese Daten unverzüglich zu löschen, sofern einer der folgenden Gründe zutrifft:
+If the processing of personal data concerning you has been restricted, this data may only be used with your consent or for the purpose of asserting, exercising or defending legal claims or protecting the rights of another natural or legal person or for reasons of important public interest Union or a Member State.  
+If the limitation of the processing after the o.g. If conditions are restricted, you will be informed by the person in charge before the restriction is lifted.  
+For data processing for scientific, historical or statistical research purposes:  
+Its right to restriction of processing may be restricted to the extent that it is likely to render impossible or seriously affect the realization of the research or statistical purposes and the restriction is necessary for the performance of the research or statistical purposes.
 
-* Die Sie betreffenden personenbezogenen Daten sind für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig.
-* Sie widerrufen Ihre Einwilligung, auf die sich die Verarbeitung gem. Art. 6 Abs. 1 lit. a oder Art. 9 Abs. 2 lit. a DSGVO stützte, und es fehlt an einer anderweitigen Rechtsgrundlage für die Verarbeitung.
-* Sie legen gem. Art. 21 Abs. 1 DSGVO Widerspruch gegen die Verarbeitung ein und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder Sie legen gem. Art. 21 Abs. 2 DSGVO Widerspruch gegen die Verarbeitung ein.
-* Die Sie betreffenden personenbezogenen Daten wurden unrechtmäßig verarbeitet.
-* Die Löschung der Sie betreffenden personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem der Verantwortliche unterliegt.
-* Die Sie betreffenden personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft gemäß Art. 8 Abs. 1 DSGVO erhoben.
+### 4. Right to cancellation
+#### a) Obligation to delete
+You may require the controller to delete your personal information without delay, and the controller is required to delete that information immediately if one of the following is true:
 
-b) Information an Dritte  
-Hat der Verantwortliche die Sie betreffenden personenbezogenen Daten öffentlich gemacht und ist er gem. Art. 17 Abs. 1 DSGVO zu deren Löschung verpflichtet, so trifft er unter Berücksichtigung der verfügbaren Technologie und der Implementierungskosten angemessene Maßnahmen, auch technischer Art, um für die Datenverarbeitung Verantwortliche, die die personenbezogenen Daten verarbeiten, darüber zu informieren, dass Sie als betroffene Person von ihnen die Löschung aller Links zu diesen personenbezogenen Daten oder von Kopien oder Replikationen dieser personenbezogenen Daten verlangt haben.
+* Your personal data are no longer necessary for the purposes for which they were collected or otherwise processed.
+* You revoke your consent to the processing gem. Art. 6 para. 1 lit. a or Art. 9 para. 2 lit. DSGVO and there is no other legal basis for processing.
+* You gem gem. Art. 21 para. 1 DSGVO objection to the processing and there are no prior justifiable reasons for the processing, or you lay gem. Art. 21 para. 2 DSGVO Opposition to processing.
+* Your personal data has been processed unlawfully.
+* The deletion of personal data concerning you is required to fulfill a legal obligation under Union law or the law of the Member States to which the controller is subject.
+* The personal data concerning you were collected in relation to information society services offered pursuant to Art. 8 (1) GDPR.
 
-c) Ausnahmen  
-Das Recht auf Löschung besteht nicht, soweit die Verarbeitung erforderlich ist
+#### b) Information to third parties
+If the person in charge has made the personal data concerning you public and is acc. Article 17 (1) of the GDPR, it shall take appropriate measures, including technical means, to inform data controllers who process the personal data that you have been identified as being affected, taking into account available technology and implementation costs Persons requesting deletion of all links to such personal data or of copies or replications of such personal data.
 
-* zur Ausübung des Rechts auf freie Meinungsäußerung und Information;
+#### c) Exceptions
+The right to erasure does not exist if
 
-* zur Erfüllung einer rechtlichen Verpflichtung, die die Verarbeitung nach dem Recht der Union oder der Mitgliedstaaten, dem der Verantwortliche unterliegt, erfordert, oder zur Wahrnehmung einer Aufgabe, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde;
+* the processing is necessary to exercise the right to freedom of expression and information;
+* to fulfill a legal obligation required by the law of the Union or of the Member States to which the controller is subject, or to carry out a task of public interest or in the exercise of official authority conferred on the controller;
+* for reasons of public interest in the field of public health pursuant to Art. 9 (2) lit. h and i and Art. 9 (3) GDPR;
+* for archival purposes of public interest, scientific or historical research purposes or for statistical purposes acc. Article 89 (1) GDPR, to the extent that the law referred to in subparagraph (a) is likely to render impossible or seriously affect the achievement of the objectives of that processing, or
+* to assert, exercise or defend legal claims.
 
-* aus Gründen des öffentlichen Interesses im Bereich der öffentlichen Gesundheit gemäß Art. 9 Abs. 2 lit. h und i sowie Art. 9 Abs. 3 DSGVO;
+### 5. Right to information
+If you have the right of rectification, erasure or restriction of processing to the controller, he / she is obliged to notify all recipients to whom your personal data have been disclosed of this correction or deletion of the data or restriction of processing, unless: this proves to be impossible or involves a disproportionate effort.  
+You have a right to the person responsible to be informed about these recipients.
 
-* für im öffentlichen Interesse liegende Archivzwecke, wissenschaftliche oder historische Forschungszwecke oder für statistische Zwecke gem. Art. 89 Abs. 1 DSGVO, soweit das unter Abschnitt a) genannte Recht voraussichtlich die Verwirklichung der Ziele dieser Verarbeitung unmöglich macht oder ernsthaft beeinträchtigt, oder
+### 6. Right to Data Portability
+You have the right to receive personally identifiable information you provide to the controller in a structured, common and machine-readable format. You also have the right to transfer this information to another person without hindrance by the controller to whom the personal data has been provided, provided that
 
-* zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
+* the processing on a consent acc. Art. 6 para. 1 lit. a GDPR or Art. 9 para. 2 lit. a DSGVO or on a contract acc. Art. 6 para. 1 lit. b DSGVO is based and
+* the processing is done using automated procedures.
 
-### 5. Recht auf Unterrichtung
-Haben Sie das Recht auf Berichtigung, Löschung oder Einschränkung der Verarbeitung gegenüber dem Verantwortlichen geltend gemacht, ist dieser verpflichtet, allen Empfängern, denen die Sie betreffenden personenbezogenen Daten offengelegt wurden, diese Berichtigung oder Löschung der Daten oder Einschränkung der Verarbeitung mitzuteilen, es sei denn, dies erweist sich als unmöglich oder ist mit einem unverhältnismäßigen Aufwand verbunden.  
-Ihnen steht gegenüber dem Verantwortlichen das Recht zu, über diese Empfänger unterrichtet zu werden.
+In exercising this right, you also have the right to obtain that your personal data relating to you are transmitted directly from one person to another, insofar as this is technically feasible. Freedoms and rights of other persons may not be affected.  
+The right to data portability does not apply to the processing of personal data necessary for the performance of a task in the public interest or in the exercise of official authority delegated to the controller.
 
-### 6. Recht auf Datenübertragbarkeit
-Sie haben das Recht, die Sie betreffenden personenbezogenen Daten, die Sie dem Verantwortlichen bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Außerdem haben Sie das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung durch den Verantwortlichen, dem die personenbezogenen Daten bereitgestellt wurden, zu übermitteln, sofern
+### 7. Right to object
+You have the right at any time, for reasons that arise from your particular situation, against the processing of your personal data, which pursuant to Art. 6 para. 1 lit. e or f DSGVO takes an objection; this also applies to profiling based on these provisions.
 
-* die Verarbeitung auf einer Einwilligung gem. Art. 6 Abs. 1 lit. a DSGVO oder Art. 9 Abs. 2 lit. a DSGVO oder auf einem Vertrag gem. Art. 6 Abs. 1 lit. b DSGVO beruht und
-* die Verarbeitung mithilfe automatisierter Verfahren erfolgt.
+The controller will no longer process the personal data concerning you unless he can demonstrate compelling legitimate grounds for processing that outweigh your interests, rights and freedoms, or the processing is for the purpose of enforcing, exercising or defending legal claims.  
+If the personal data relating to you are processed for direct marketing purposes, you have the right to object at any time to the processing of your personal data for the purpose of such advertising; this also applies to profiling insofar as it is associated with such direct mail.  
+If you object to processing for direct marketing purposes, your personal data will no longer be processed for these purposes.
+Regardless of Directive 2002/58 / EC, you have the option, in the context of the use of information society services, of exercising your right to object through automated procedures that use technical specifications.
 
-In Ausübung dieses Rechts haben Sie ferner das Recht, zu erwirken, dass die Sie betreffenden personenbezogenen Daten direkt von einem Verantwortlichen einem anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist. Freiheiten und Rechte anderer Personen dürfen hierdurch nicht beeinträchtigt werden.  
-Das Recht auf Datenübertragbarkeit gilt nicht für eine Verarbeitung personenbezogener Daten, die für die Wahrnehmung einer Aufgabe erforderlich ist, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde.
-
-### 7. Widerspruchsrecht
-Sie haben das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling.
-
-Der Verantwortliche verarbeitet die Sie betreffenden personenbezogenen Daten nicht mehr, es sei denn, er kann zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
-Werden die Sie betreffenden personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen; dies gilt auch für das Profiling, soweit es mit solcher Direktwerbung in Verbindung steht.
-Widersprechen Sie der Verarbeitung für Zwecke der Direktwerbung, so werden die Sie betreffenden personenbezogenen Daten nicht mehr für diese Zwecke verarbeitet.  
-Sie haben die Möglichkeit, im Zusammenhang mit der Nutzung von Diensten der Informationsgesellschaft – ungeachtet der Richtlinie 2002/58/EG – Ihr Widerspruchsrecht mittels automatisierter Verfahren auszuüben, bei denen technische Spezifikationen verwendet werden.
-
-### 8. Widerruf, Änderungen, Berichtigungen und Aktualisierungen
-
-Sie haben das Recht,
-
-* Ihre datenschutzrechtliche Einwilligungserklärung jederzeit zu widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der auf Grund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt.
-* auf Antrag Auskunft über die personenbezogenen Daten, die von Ihnen gespeichert werden, zu erhalten.
-* Berichtigungen, Sperrung oder die Löschung seiner Daten - soweit keine gesetzliche Aufbewahrungspflicht besteht - zu verlangen.
-
-### 9. Recht auf Beschwerde bei einer Aufsichtbehörde
-
-Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Ihnen das Recht auf Beschwerde bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres Aufenthaltsorts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes, zu, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden personenbezogenen Daten gegen die DSGVO verstößt.  
-Die Aufsichtsbehörde, bei der die Beschwerde eingereicht wurde, unterrichtet den Beschwerdeführer über den Stand und die Ergebnisse der Beschwerde einschließlich der Möglichkeit eines gerichtlichen Rechtsbehelfs nach Art. 78 DSGVO.
+### 8. Right to complain to a supervisory authority
+Without prejudice to any other administrative or judicial remedy, you shall have the right to complain to a supervisory authority, in particular in the Member State of its residence, place of work or place of alleged infringement, if you believe that the processing of the personal data concerning you is against the DSGVO violates.  
+The supervisory authority to which the complaint has been submitted shall inform the complainant of the status and results of the complaint, including the possibility of a judicial remedy pursuant to Article 78 of the GDPR.
