@@ -2,9 +2,9 @@
 
 This repository contains the source code of the *Q-net-Q* project homepage.
 
-The current state of the main branch is published on https://evernet.duckdns.org.
+The current state of the main branch is published on https://www.q-net-q.eu.
 
-A preview deployment for the staging branch is available on https://evernet.duckdns.org/staging.
+A preview deployment for the staging branch is available on https://www.q-net-q.eu/staging.
 
 ## Docusaurus
 
