@@ -1,13 +1,4 @@
 {
-  "Research project Q-net-Q": {
-    "message": "Forschungsprojekt Q-net-Q"
-  },
-  "Easy to Use": {
-    "message": "Easy to Use"
-  },
-  "Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.": {
-    "message": "Docusaurus wurde von Grund auf so konzipiert, dass es einfach zu installieren und zu verwenden ist, um Ihre Website schnell zum Laufen zu bringen."
-  },
   "theme.ErrorPageContent.title": {
     "message": "Die Seite ist abgestürzt.",
     "description": "The title of the fallback page when the page crashed"
@@ -292,10 +283,6 @@
     "description": "The unlisted content banner message"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "{count} Einträge",
-    "description": "The default description for a category card in the generated index about how many items this category includes"
-  },
-  "theme.docs.DocCard.categoryDescription": {
     "message": "{count} Einträge",
     "description": "The default description for a category card in the generated index about how many items this category includes"
   }
