@@ -84,8 +84,8 @@ const config = {
         //title: 'Q-net-Q', // written next to the logo
         logo: {
           alt: 'Q-net-Q',
-          src: 'img/qnq_logo_black.png',
-          srcDark: 'img/qnq_logo_white.png',
+          src: 'img/q-net-q_logo.svg',
+          srcDark: 'img/q-net-q_dm.svg',
         },
         items: [
           {

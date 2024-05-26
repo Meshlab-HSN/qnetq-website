@@ -25,7 +25,7 @@ function HomepageHeader() {
             Research project Q-net-Q
           </Translate>
         </p>*/}
-        <img class="main_logo" src="img/qnq_deploymentspng.png"></img>
+        <img class="main_logo" src="img/map_europe.png"></img>
         <div className={styles.buttons}>
           {/* <Link
             className="button button--secondary button--lg"
