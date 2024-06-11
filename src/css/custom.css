@@ -51,6 +51,10 @@
   transform: rotate(5deg);
 }
 
+header {
+  background: radial-gradient(ellipse at right bottom, #3cc74573 5%, #1d912b85 25%, #0b3b2494 50%, #030243 100%);
+} 
+
 .main_heading {
   position: absolute;
   left: 13%;
