@@ -3,7 +3,7 @@
  * and scoped locally.
  */
 
-.heroBanner {
+/* .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
@@ -14,10 +14,19 @@
   .heroBanner {
     padding: 2rem;
   }
-}
+} */
 
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
+/* .mapContainerWrapper {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: orange;
+} */

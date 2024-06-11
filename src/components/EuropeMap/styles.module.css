@@ -1,0 +1,15 @@
+/* svg {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+path {
+    fill: #2a354d;
+} */
+
+.mapContainer {
+    border: 1px solid blue;
+    max-width: var(--ifm-container-width-xl);
+    margin: 0 auto;
+    position: relative;
+}
