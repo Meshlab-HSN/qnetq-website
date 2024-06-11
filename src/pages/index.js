@@ -13,9 +13,10 @@ import MapContainer from '../components/EuropeMap/MapContainer';
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        {/* <Heading as="h1" className="hero__title">
+    <header>
+      <MapContainer />
+      {/* <div className="container">
+        <Heading as="h1" className="hero__title">
           {siteConfig.title}
           <Translate>
             Q-net-Q
@@ -26,16 +27,16 @@ function HomepageHeader() {
           <Translate>
             Research project Q-net-Q
           </Translate>
-        </p>*/}
+        </p>
         <img class="main_logo" src="img/map_europe.png"></img>
         <div className={styles.buttons}>
-          {/* <Link
+          <Link
             className="button button--secondary button--lg"
             to="/docs/category/q-net-q">
             Docusaurus Tutorial - 5min ⏱️
-          </Link> */}
+          </Link>
         </div>
-      </div>
+      </div>*/}
     </header>
   );
 }
@@ -50,9 +51,6 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-        <div className={styles.mapContainerWrapper}>
-          <MapContainer />
-        </div>
       </main>
     </Layout>
   );

@@ -8,13 +8,14 @@ const Map = () => {
       // style={{ backgroundColor: 'pink' }}
       projection='geoMercator'
       projectionConfig={{
-        scale: 350,
-        center: [15, 50],
+        scale: 77,
+        center: [6, 57],
         // rotate: [-15.0, -50.0, -3],
       }}
-      fill='darkblue'
       stroke='white'
-      stroke-width={0.5}
+      stroke-width={0.1}
+      width='100'
+      height='100'
     >
       <Geographies geography={mapdata.data}>
         {(geographies) => {
@@ -22,20 +23,34 @@ const Map = () => {
             return <Geography
               key={geo.rsmKey}
               geography={geo}
+              fill={
+                countryColor(geo)
+              }
               style={{
                 hover: {
                   opacity: 0.8,
-                },
-                // fill:
-                  // geo.properties.NAME === 'Germany'
-                  //   ? 'darkred'
-                  //   : 'green',
-              }}
+                }
+              }
+            }
             />;
           });
         }}
       </Geographies>
     </ComposableMap>
+  );
+};
+
+function countryColor(geo) {
+  var color;
+  if (geo.properties.NEIGHBOR === 0) {
+    color = '#FF8A8A'
+  } else if (geo.properties.NEIGHBOR === 1) {
+    color = 'darkgrey'
+  } else {
+    color = 'lightgrey'
+  }
+  return (
+    color
   );
 };
 

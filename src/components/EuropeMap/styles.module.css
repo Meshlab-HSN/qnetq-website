@@ -7,9 +7,9 @@ path {
     fill: #2a354d;
 } */
 
-
 .mapContainer {
-    width: 80vw;
-    height: 80vh;
-    background: red;
+    border: 1px solid blue;
+    max-width: var(--ifm-container-width-xl);
+    margin: 0 auto;
+    position: relative;
 }

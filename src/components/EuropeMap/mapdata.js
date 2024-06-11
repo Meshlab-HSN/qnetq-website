@@ -8,7 +8,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Albania"
+                            "NAME": "Albania",
+                            "NEIGHBOR": 2
                         },
                         "id": "AL",
                         "arcs": [
@@ -26,7 +27,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Bosnia and Herzegovina"
+                            "NAME": "Bosnia and Herzegovina",
+                            "NEIGHBOR": 2
                         },
                         "id": "BA",
                         "arcs": [
@@ -47,7 +49,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Bulgaria"
+                            "NAME": "Bulgaria",
+                            "NEIGHBOR": 2
                         },
                         "id": "BG",
                         "arcs": [
@@ -64,7 +67,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Denmark"
+                            "NAME": "Denmark",
+                            "NEIGHBOR": 1
                         },
                         "id": "DK",
                         "arcs": [
@@ -164,7 +168,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Ireland"
+                            "NAME": "Ireland",
+                            "NEIGHBOR": 2
                         },
                         "id": "IE",
                         "arcs": [
@@ -194,7 +199,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Estonia"
+                            "NAME": "Estonia",
+                            "NEIGHBOR": 2
                         },
                         "id": "EE",
                         "arcs": [
@@ -239,7 +245,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Austria"
+                            "NAME": "Austria",
+                            "NEIGHBOR": 1
                         },
                         "id": "AT",
                         "arcs": [
@@ -273,7 +280,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Czech Republic"
+                            "NAME": "Czech Republic",
+                            "NEIGHBOR": 1
                         },
                         "id": "CZ",
                         "arcs": [
@@ -294,7 +302,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Finland"
+                            "NAME": "Finland",
+                            "NEIGHBOR": 2
                         },
                         "id": "FI",
                         "arcs": [
@@ -436,7 +445,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "France"
+                            "NAME": "France",
+                            "NEIGHBOR": 1
                         },
                         "id": "FR",
                         "arcs": [
@@ -509,7 +519,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Germany"
+                            "NAME": "Germany",
+                            "NEIGHBOR": 0
                         },
                         "id": "DE",
                         "arcs": [
@@ -665,7 +676,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Greece"
+                            "NAME": "Greece",
+                            "NEIGHBOR": 2
                         },
                         "id": "GR",
                         "arcs": [
@@ -1020,7 +1032,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Croatia"
+                            "NAME": "Croatia",
+                            "NEIGHBOR": 2
                         },
                         "id": "HR",
                         "arcs": [
@@ -1151,7 +1164,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Hungary"
+                            "NAME": "Hungary",
+                            "NEIGHBOR": 2
                         },
                         "id": "HU",
                         "arcs": [
@@ -1175,7 +1189,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Italy"
+                            "NAME": "Italy",
+                            "NEIGHBOR": 2
                         },
                         "id": "IT",
                         "arcs": [
@@ -1314,7 +1329,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Latvia"
+                            "NAME": "Latvia",
+                            "NEIGHBOR": 2
                         },
                         "id": "LV",
                         "arcs": [
@@ -1336,7 +1352,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Belarus"
+                            "NAME": "Belarus",
+                            "NEIGHBOR": 2
                         },
                         "id": "BY",
                         "arcs": [
@@ -1378,7 +1395,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Lithuania"
+                            "NAME": "Lithuania",
+                            "NEIGHBOR": 2
                         },
                         "id": "LT",
                         "arcs": [
@@ -1410,7 +1428,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Slovakia"
+                            "NAME": "Slovakia",
+                            "NEIGHBOR": 2
                         },
                         "id": "SK",
                         "arcs": [
@@ -1426,7 +1445,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Liechtenstein"
+                            "NAME": "Liechtenstein",
+                            "NEIGHBOR": 1
                         },
                         "id": "LI",
                         "arcs": [
@@ -1439,7 +1459,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "The former Yugoslav Republic of Macedonia"
+                            "NAME": "The former Yugoslav Republic of Macedonia",
+                            "NEIGHBOR": 2
                         },
                         "id": "MK",
                         "arcs": [
@@ -1454,7 +1475,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Malta"
+                            "NAME": "Malta",
+                            "NEIGHBOR": 2
                         },
                         "id": "MT",
                         "arcs": [
@@ -1473,7 +1495,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Belgium"
+                            "NAME": "Belgium",
+                            "NEIGHBOR": 1
                         },
                         "id": "BE",
                         "arcs": [
@@ -1495,7 +1518,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Andorra"
+                            "NAME": "Andorra",
+                            "NEIGHBOR": 2
                         },
                         "id": "AD",
                         "arcs": [
@@ -1508,7 +1532,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Luxembourg"
+                            "NAME": "Luxembourg",
+                            "NEIGHBOR": 1
                         },
                         "id": "LU",
                         "arcs": [
@@ -1526,7 +1551,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Monaco"
+                            "NAME": "Monaco",
+                            "NEIGHBOR": 2
                         },
                         "id": "MC",
                         "arcs": [
@@ -1540,7 +1566,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Montenegro"
+                            "NAME": "Montenegro",
+                            "NEIGHBOR": 2
                         },
                         "id": "ME",
                         "arcs": [
@@ -1557,7 +1584,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Netherlands"
+                            "NAME": "Netherlands",
+                            "NEIGHBOR": 1
                         },
                         "id": "NL",
                         "arcs": [
@@ -1618,7 +1646,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Norway"
+                            "NAME": "Norway",
+                            "NEIGHBOR": 2
                         },
                         "id": "NO",
                         "arcs": [
@@ -2095,7 +2124,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Poland"
+                            "NAME": "Poland",
+                            "NEIGHBOR": 1
                         },
                         "id": "PL",
                         "arcs": [
@@ -2126,7 +2156,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Portugal"
+                            "NAME": "Portugal",
+                            "NEIGHBOR": 2
                         },
                         "id": "PT",
                         "arcs": [
@@ -2139,7 +2170,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Romania"
+                            "NAME": "Romania",
+                            "NEIGHBOR": 2
                         },
                         "id": "RO",
                         "arcs": [
@@ -2157,7 +2189,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Republic of Moldova"
+                            "NAME": "Republic of Moldova",
+                            "NEIGHBOR": 2
                         },
                         "id": "MD",
                         "arcs": [
@@ -2178,7 +2211,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Slovenia"
+                            "NAME": "Slovenia",
+                            "NEIGHBOR": 2
                         },
                         "id": "SI",
                         "arcs": [
@@ -2202,7 +2236,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Spain"
+                            "NAME": "Spain",
+                            "NEIGHBOR": 2
                         },
                         "id": "ES",
                         "arcs": [
@@ -2261,7 +2296,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Sweden"
+                            "NAME": "Sweden",
+                            "NEIGHBOR": 2
                         },
                         "id": "SE",
                         "arcs": [
@@ -2367,7 +2403,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Switzerland"
+                            "NAME": "Switzerland",
+                            "NEIGHBOR": 1
                         },
                         "id": "CH",
                         "arcs": [
@@ -2398,7 +2435,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "United Kingdom"
+                            "NAME": "United Kingdom",
+                            "NEIGHBOR": 2
                         },
                         "id": "GB",
                         "arcs": [
@@ -2648,7 +2686,8 @@ const mapdata = {
                     {
                         "type": "MultiPolygon",
                         "properties": {
-                            "NAME": "Ukraine"
+                            "NAME": "Ukraine",
+                            "NEIGHBOR": 2
                         },
                         "id": "UA",
                         "arcs": [
@@ -2703,7 +2742,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "San Marino"
+                            "NAME": "San Marino",
+                            "NEIGHBOR": 2
                         },
                         "id": "SM",
                         "arcs": [
@@ -2739,7 +2779,8 @@ const mapdata = {
                     {
                         "type": "Polygon",
                         "properties": {
-                            "NAME": "Holy See (Vatican City)"
+                            "NAME": "Holy See (Vatican City)",
+                            "NEIGHBOR": 2
                         },
                         "id": "VA",
                         "arcs": [
