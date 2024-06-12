@@ -24,7 +24,7 @@ const Map = () => {
               key={geo.rsmKey}
               geography={geo}
               fill={
-                countryColor(geo)
+                countryColor(geo.properties.NEIGHBOR)
               }
               style={{
                 hover: {
@@ -40,18 +40,24 @@ const Map = () => {
   );
 };
 
-function countryColor(geo) {
+function countryColor(neighbor) {
   var color;
-  if (geo.properties.NEIGHBOR === 0) {
-    color = '#FF8A8A'
-  } else if (geo.properties.NEIGHBOR === 1) {
-    color = 'darkgrey'
-  } else {
-    color = 'lightgrey'
+  
+  switch (neighbor) {
+    case 0:
+      color = '#FF8A8A';
+      break;
+    case 1:
+      color = 'darkgrey';
+      break;
+    case 2:
+      color = 'lightgrey';
+      break;
+    default:
+      color = '#EAEAEA';
   }
-  return (
-    color
-  );
+  
+  return color;
 };
 
 export default Map;
