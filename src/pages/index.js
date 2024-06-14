@@ -50,7 +50,7 @@ export default function Home() {
       description="meta-Tag - New hub for quantum communication in Germany to be created in Erfurt / Starting signal for new Q-net-Q research project">
       <HomepageHeader />
       <main>
-        {/* <HomepageFeatures /> */}
+        <HomepageFeatures />
       </main>
     </Layout>
   );

@@ -1,104 +1,61 @@
 import clsx from 'clsx';
-import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import Translate from '@docusaurus/Translate';
 
-// const FeatureList = [
-//   {
-//     title: 'Easy to Use',
-//     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-//     description: (
-//       <>
-//         Docusaurus was designed from the ground up to be easily installed and
-//         used to get your website up and running quickly.
-//       </>
-//     ),
-//   },
-//   {
-//     title: 'Focus on What Matters',
-//     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-//     description: (
-//       <>
-//         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-//         ahead and move your docs into the <code>docs</code> directory.
-//       </>
-//     ),
-//   },
-//   {
-//     title: 'Powered by React',
-//     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-//     description: (
-//       <>
-//         Extend or customize your website layout by reusing React. Docusaurus can
-//         be extended while reusing the same header and footer.
-//       </>
-//     ),
-//   },
-// ];
+import hsnLogo from '@site/static/img/logos/hs_nordhausen.png';
+import tumLogo from '@site/static/img/logos/tu_muenchen.png';
+import tubLogo from '@site/static/img/logos/tu_berlin.png';
 
-// function Feature({Svg, title, description}) {
-//   return (
-//     <div className={clsx('col col--4')}>
-//       <div className="text--center">
-//         <Svg className={styles.featureSvg} role="img" />
-//       </div>
-//       <div className="text--center padding-horiz--md">
-//         <Heading as="h3">{title}</Heading>
-//         <p>{description}</p>
-//       </div>
-//     </div>
-//   );
-// }
+const FeatureList = [
+  {
+    Img: hsnLogo,
+    description: (
+      <>
+        Prof. Thomas Hühn leitet den Fachbereich Kommunikationstechnik und forscht an effizienter Ressourcenallokation in WLAN-Netzwerken. Als Experte für drahtlose Software-Defined Netzwerke hat er nationale und internationale Projekte geleitet und koordiniert das Verbundforschungsprojekt Q-net-Q.
+      </>
+    ),
+  },
+  {
+    Img: tumLogo,
+    description: (
+      <>
+        Dr. Janis Nötzel, an der TUM gibt es die erste Emmy-Noether Arbeitsgruppe für Quantenkommunikation in der Elektrotechnik. Sie entwickelt theoretische Systemkonzepte und Software für die Verifikation von Protokollen. Dr. Nötzel leitet die Forschung in den Bereichen quantum-classical queue management, Quantensimulation und statistische Untersuchungen.
+      </>
+    ),
+  },
+  {
+    Img: tubLogo,
+    description: (
+      <>
+        Prof. Jean-Pierre Seifert bringt seine Expertise von Intel, Infineon und Samsung mit und ist in renommierten Institutionen wie T-Labs und BIFOLD involviert. Er ist ein Pionier in Fehlerangriffen und Mitbegründer der Einstein-Forschungsgruppe zur Quanten-Digitalen Transformation. Dazu gehört auch die Emmy Noether DFG-Nachwuchsgruppe Quantenkommunikation und Kryptographie von Dr. Anna Pappa.
+      </>
+    ),
+  },
+];
 
-// export default function HomepageFeatures() {
-//   return (
-//     <section className={styles.features}>
-//       <div className="container">
-//         <div className="row">
-//           {FeatureList.map((props, idx) => (
-//             <Feature key={idx} {...props} />
-//           ))}
-//         </div>
-//       </div>
-//     </section>
-//   );
-// }
+function Feature({ Img, description }) {
+  return (
+    <div className={clsx('col col--4')}>
+      <div className="text--center">
+        <img src={Img} className={styles.featureImg} alt="Logo" />
+      </div>
+      <div className="text--center padding-horiz--md">
+        <p>{description}</p>
+      </div>
+    </div>
+  );
+}
 
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          <div className={clsx('col col--1')}></div>
-          <div className={clsx('col')}>
-            <div className="text--center">
-              <img role="img" src="img/topology_overview.png"/>
-            </div>
-            <div className="text--center padding-horiz--md">
-
-            </div>
-          </div>
-          <div className={clsx('col col--1')}></div>
+          {FeatureList.map((props, idx) => (
+            <Feature key={idx} {...props} />
+          ))}
         </div>
       </div>
     </section>
   );
 }
-
-
-
-{/* <div className="text--center">
-<img className={styles.featureSvg} role="img" src="img/undraw_docusaurus_mountain.svg"/>
-</div>
-<div className="text--center padding-horiz--md">
-<Heading as="h3">
-  <Translate>
-    Easy to Use
-  </Translate>
-</Heading>
-<p>
-  <Translate>
-    Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.
-  </Translate>
-</p>
-</div> */}
