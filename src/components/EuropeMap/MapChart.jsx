@@ -17,7 +17,7 @@ const Map = () => {
 
     switch (NEIGHBOR) {
       case 0:
-        config.onClick = () => history.push(`/docs/testbeds/trusted_node`);
+        config.onClick = () => history.push(`docs/testbeds/overview`);
         config.color = '#FF8A8A';
         config.style = {
           hover: { opacity: 0.8 }
