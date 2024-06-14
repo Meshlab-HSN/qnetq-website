@@ -9,28 +9,41 @@ const Map = () => {
 
   const countryConfig = ({ NEIGHBOR, PROJECT }) => {
     let config = {
-      color: '',
-      project: PROJECT,
-      style: {},
       onClick: null,
+      project: PROJECT,
+      color: '',
+      style: {},
     };
 
     switch (NEIGHBOR) {
       case 0:
-        config.color = '#FF8A8A';
-        config.style = { hover: { opacity: 0.8 } };
         config.onClick = () => history.push(`/docs/testbeds/trusted_node`);
+        config.color = '#FF8A8A';
+        config.style = {
+          hover: { opacity: 0.8 }
+        };
         break;
       case 1:
         config.color = 'darkgrey';
-        config.style = { hover: { opacity: 0.8 } };
+        config.style = {
+          hover: { opacity: 0.8 },
+          pressed: { opacity: 0.8 }
+        };
         break;
       case 2:
         config.color = 'lightgrey';
-        config.style = { hover: { opacity: 0.8 } };
+        config.style = {
+          hover: { opacity: 0.8 },
+          pressed: { opacity: 0.8 }
+        };
         break;
       default:
-        config.color = '#EAEAEA';
+        config.color = 'white';
+        config.style = {
+          default: { opacity: 0.3 },
+          hover: { opacity: 0.3 },
+          pressed: { opacity: 0.3 }
+        }
     }
 
     return config;
@@ -45,7 +58,7 @@ const Map = () => {
           center: [6, 57],
         }}
         stroke='white'
-        strokeWidth={0.1}
+        strokeWidth={0.05}
         width='100'
         height='100'
       >
