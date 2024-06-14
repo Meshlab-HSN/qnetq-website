@@ -15,28 +15,6 @@ function HomepageHeader() {
   return (
     <header>
       <MapContainer />
-      {/* <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-          <Translate>
-            Q-net-Q
-          </Translate>
-        </Heading>
-        <p className="hero__subtitle">
-          {siteConfig.tagline}
-          <Translate>
-            Research project Q-net-Q
-          </Translate>
-        </p>
-        <img class="main_logo" src="img/map_europe.png"></img>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/category/q-net-q">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
-      </div>*/}
     </header>
   );
 }
@@ -45,7 +23,6 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      // title={`Hello from ${siteConfig.title}`}
       title={`Research project`}
       description="meta-Tag - New hub for quantum communication in Germany to be created in Erfurt / Starting signal for new Q-net-Q research project">
       <HomepageHeader />
