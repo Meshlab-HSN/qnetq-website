@@ -1,10 +1,18 @@
+@font-face {
+  font-family: 'QnetQFont';
+  src: url('../../static/fonts/qnetq_font.woff2') format('woff2'),
+       url('../../static/fonts/qnetq_font.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+ /* You can override the default Infima variables here. */
 :root {
   /*--ifm-color-primary: #2e8555;*/
   --ifm-color-primary: #B51700;
@@ -50,6 +58,7 @@ header {
 } 
 
 .main_heading {
+  font-family: 'QnetQFont';
   position: absolute;
   left: 13%;
   top: 14%;
