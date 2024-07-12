@@ -7,6 +7,7 @@ import Translate from '@docusaurus/Translate';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import firefly from '../css/firefly.css';
 
 import MapContainer from '../components/EuropeMap/MapContainer';
 
@@ -15,6 +16,20 @@ function HomepageHeader() {
   return (
     <header class='landing_page'>
       <MapContainer />
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
+      <div class="firefly"></div>
     </header>
   );
 }
