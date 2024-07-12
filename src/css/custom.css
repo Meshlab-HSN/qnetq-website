@@ -54,7 +54,8 @@
 }
 
 header.landing_page {
-  background: radial-gradient(ellipse at right bottom, #3cc74573 5%, #1d912b85 25%, #0b3b2494 50%, #030243 100%);
+  background: url("../../static/img/q-net-q_scatter_background_very_small.webp");
+  background-size: cover;
 } 
 
 .main_heading {
@@ -63,5 +64,6 @@ header.landing_page {
   left: 13%;
   top: 14%;
   font-size: 6vw;
+  color: white;
 }
 
