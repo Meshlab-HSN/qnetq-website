@@ -13,7 +13,7 @@ import MapContainer from '../components/EuropeMap/MapContainer';
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header>
+    <header class='landing_page'>
       <MapContainer />
     </header>
   );
