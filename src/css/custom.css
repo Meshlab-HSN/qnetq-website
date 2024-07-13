@@ -58,12 +58,26 @@ header.landing_page {
   background-size: cover;
 } 
 
-.main_heading {
-  font-family: 'QnetQFont';
+.hero_cont {
   position: absolute;
   left: 13%;
   top: 14%;
-  font-size: 6vw;
   color: white;
 }
 
+.main_heading {
+  font-family: 'QnetQFont';
+  font-size: 6vw;
+}
+
+.copy_text {
+  font-size: 2vw;
+  line-height: 2em;
+}
+
+@media only screen and (max-width: 600px) {
+  .copy_text {
+    font-size: 3vw;
+    line-height: 1em;
+  } 
+}
