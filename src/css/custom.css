@@ -53,15 +53,15 @@
   transform: rotate(5deg);
 }
 
-header.landing_page {
+/* header.landing_page {
   background: url("../../static/img/q-net-q_scatter_background_very_small.webp");
   background-size: cover;
-} 
+} */
 
 .hero_cont {
   position: absolute;
-  left: 13%;
-  top: 14%;
+  left: 5%;
+  top: 5%;
   color: white;
 }
 
@@ -74,10 +74,9 @@ header.landing_page {
   font-size: 2vw;
   line-height: 2em;
 }
-
 @media only screen and (max-width: 600px) {
   .copy_text {
-    font-size: 3vw;
+    font-size: 3.5vw;
     line-height: 1em;
-  } 
+  }
 }

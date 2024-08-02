@@ -8,6 +8,7 @@ import Translate from '@docusaurus/Translate';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import firefly from '../css/firefly.css';
+import headerBG from '../css/header_bg_base64.css';
 
 import MapContainer from '../components/EuropeMap/MapContainer';
 
@@ -42,7 +43,7 @@ export default function Home() {
       description="meta-Tag - New hub for quantum communication in Germany to be created in Erfurt / Starting signal for new Q-net-Q research project">
       <HomepageHeader />
       <main>
-        {/* <HomepageFeatures /> */}
+        <HomepageFeatures />
       </main>
     </Layout>
   );
