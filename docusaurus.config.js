@@ -72,12 +72,11 @@ const config = {
           showReadingTime: true,
           path: 'news',
           routeBasePath: "news",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/Meshlab-HSN/qnetq-website/tree/main/',
           blogTitle: 'News',
           blogDescription: 'News from the Q-net-Q project.',
+          blogSidebarCount: 'ALL'
         },
         theme: {
           customCss: './src/css/custom.css',
