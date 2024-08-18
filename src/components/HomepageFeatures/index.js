@@ -1,10 +1,9 @@
-import { useState, useEffect } from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import Translate from '@docusaurus/Translate';
-
-
+import React from 'react';
+import { useDynamicClass } from './useDynamicClass';
 
 const FeatureList = [
   {
@@ -70,19 +69,9 @@ const FeatureList = [
 ];
 
 function Feature({Svg, title, description}) {
-  const [isTablet, setIsTablet] = useState(window.innerWidth < 995);
-
-  {/* Performs similarly to componentDidMount in classes */}
-  useEffect(() => {
-      window.addEventListener("resize", () => {
-          const istablet = window.innerWidth < 995;
-          if (istablet !== isTablet) setIsTablet(istablet);
-      }, false);
-  }, [isTablet]);
-
+  const dynamicClass = useDynamicClass();
   return (
-    <div className={clsx('col', isTablet ? 'col--6' : 'col--4' )}>
-      {/* !!!! class switch will be applied but overwritten by 'col', when reached */}
+    <div className={clsx('col', dynamicClass)}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
@@ -95,6 +84,7 @@ function Feature({Svg, title, description}) {
 }
 
 export default function HomepageFeatures() {
+
   return (
     <section className={styles.features}>
       <div className="container">

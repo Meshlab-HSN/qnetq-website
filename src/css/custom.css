@@ -80,3 +80,16 @@
     line-height: 1em;
   }
 }
+@media (max-width: 996px) {
+  .col-6 {
+    width: calc(6 / 12* 100%) !important;
+    width: 50% !important;
+    flex-basis: auto;
+  }
+}
+@media (max-width: 768px) {
+  .col-6 {
+    width: 100% !important;
+    flex-basis: auto;
+  }
+}
