@@ -49,9 +49,11 @@ const config = {
     [
       require.resolve("@cmfcmf/docusaurus-search-local"),
       {
-        indexDocs: true,
         indexPages: true,
+        indexDocs: true,
+        indexBlog: true,
         includeParentCategoriesInPageTitle: true,
+        language: ["en", "de"]
       },
     ],
   ],
