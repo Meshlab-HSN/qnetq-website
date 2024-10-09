@@ -55,7 +55,7 @@ const Map = () => {
         projection='geoMercator'
         projectionConfig={{
           scale: 77,
-          center: [6, 57],
+          center: [14, 57],
         }}
         stroke='white'
         strokeWidth={0.05}
