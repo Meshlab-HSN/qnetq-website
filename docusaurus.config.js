@@ -126,34 +126,25 @@ const config = {
       },
       footer: {
         style: 'dark',
+        logo: {
+          alt: 'University of Applied Sciences Nordhausen',
+          src: 'img/hsn-logo-white.svg',
+          // href: 'https://www.hs-nordhausen.de',
+        },
         links: [
           {
-            title: 'Legal',
             items: [
-              {
-                label: 'Imprint',
-                href: '/footer/imprint',
-              },
               {
                 label: 'Privacy',
                 href: '/footer/privacy',
               },
               {
+                label: 'Imprint',
+                href: '/footer/imprint',
+              },
+              {
                 label: 'Contact',
                 href: '/footer/contact',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'HS Nordhausen',
-                href: 'https://www.hs-nordhausen.de/aktuelles/pressemitteilungen/news-presse-details/2028-auf-der-zukuenftigen-quantenautobahn-fuehrt-kein-weg-mehr-an-thueringen-vorbei/aeedcde2629937684b7dd308079c1b21/',
-              },
-              {
-                label: 'BMBF',
-                href: 'https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/q-net-q',
               },
             ],
           },

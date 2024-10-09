@@ -114,3 +114,70 @@
 .feature_cont .lower {
   padding: 20px;
 }
+
+.footer__top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px;
+}
+
+.footer__column {
+  display: flex;
+  align-items: center;
+}
+
+.footer__left {
+  justify-content:flex-start;
+}
+
+.footer__middle {
+  flex-grow: 2; /* Makes the middle column resizable */
+}
+
+.footer__right {
+  justify-content:flex-end;
+  flex: 1;
+}
+
+.footer__logo-custom {
+  width: 300px; /* Fixed width for the logo on desktop */
+  text-align: center;
+}
+
+.footer__links-custom {
+  text-align: right;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .footer__top {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer__left {
+    justify-content: center;
+    width: 100%;
+  }
+
+  .footer__right {
+    justify-content: center;
+    width: 100%;
+    margin-top: 3em;
+  }
+
+  .footer__middle {
+    display: none; /* Hide the middle column on mobile */
+  }
+
+  .footer__logo {
+    width: 100%;
+    max-width: 300px; /* Maximum width of 300px on mobile */
+  }
+
+  .footer__links-custom {
+    margin-top: 10px; /* Adds space between logo and links */
+    text-align: center;
+  }
+}
