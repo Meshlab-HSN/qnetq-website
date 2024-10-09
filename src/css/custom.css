@@ -63,6 +63,7 @@
   left: 5%;
   top: 5%;
   color: white;
+  width: 32vw;
 }
 
 .main_heading {
@@ -77,26 +78,6 @@
 
 .features_src-components-HomepageFeatures-styles-module {
   background: #ecf1f7;
-}
-
-@media only screen and (max-width: 600px) {
-  .copy_text {
-    font-size: 3.5vw;
-    line-height: 1em;
-  }
-}
-@media (max-width: 996px) {
-  .col-6 {
-    width: calc(6 / 12* 100%) !important;
-    width: 50% !important;
-    flex-basis: auto;
-  }
-}
-@media (max-width: 768px) {
-  .col-6 {
-    width: 100% !important;
-    flex-basis: auto;
-  }
 }
 
 .feature_cont {
@@ -150,7 +131,35 @@
 }
 
 /* Responsive Design */
+
+@media only screen and (min-width: 1140px) {
+  .hero_cont {
+    max-width: 400px;
+  }
+  
+  .main_heading {
+    font-size: 82px;
+  }
+
+  .copy_text {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 996px) {
+  .col-6 {
+    width: calc(6 / 12* 100%) !important;
+    width: 50% !important;
+    flex-basis: auto;
+  }
+}
+
 @media (max-width: 768px) {
+  .col-6 {
+    width: 100% !important;
+    flex-basis: auto;
+  }
+
   .footer__top {
     flex-direction: column;
     align-items: center;
@@ -179,5 +188,16 @@
   .footer__links-custom {
     margin-top: 10px; /* Adds space between logo and links */
     text-align: center;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .hero_cont {
+    width: 46vw;
+  }
+  
+  .copy_text {
+    font-size: 3.5vw;
+    line-height: 1em;
   }
 }
