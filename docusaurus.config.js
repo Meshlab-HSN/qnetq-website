@@ -78,7 +78,8 @@ const config = {
             'https://github.com/Meshlab-HSN/qnetq-website/tree/main/',
           blogTitle: 'News',
           blogDescription: 'News from the Q-net-Q project.',
-          blogSidebarCount: 'ALL'
+          blogSidebarCount: 'ALL',
+          onUntruncatedBlogPosts: 'ignore',
         },
         theme: {
           customCss: './src/css/custom.css',
