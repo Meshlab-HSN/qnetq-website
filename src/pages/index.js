@@ -15,22 +15,22 @@ import MapContainer from '../components/EuropeMap/MapContainer';
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header class='landing_page'>
+    <header className='landing_page'>
       <MapContainer />
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
-      <div class="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
+      <div className="firefly"></div>
     </header>
   );
 }
