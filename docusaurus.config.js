@@ -90,8 +90,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      //image: 'img/docusaurus-social-card.jpg',
       navbar: {
         //title: 'Q-net-Q', // written next to the logo
         logo: {
@@ -119,11 +117,6 @@ const config = {
             label: 'Research & Development',
           },
           { to: '/news', label: 'News', position: 'left' },
-          /* {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          }, */
           {
             type: 'localeDropdown',
             position: 'right',
