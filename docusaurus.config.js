@@ -49,9 +49,11 @@ const config = {
     [
       require.resolve("@cmfcmf/docusaurus-search-local"),
       {
-        indexDocs: true,
         indexPages: true,
+        indexDocs: true,
+        indexBlog: true,
         includeParentCategoriesInPageTitle: true,
+        language: ["en", "de"]
       },
     ],
   ],
@@ -76,7 +78,8 @@ const config = {
             'https://github.com/Meshlab-HSN/qnetq-website/tree/main/',
           blogTitle: 'News',
           blogDescription: 'News from the Q-net-Q project.',
-          blogSidebarCount: 'ALL'
+          blogSidebarCount: 'ALL',
+          onUntruncatedBlogPosts: 'ignore',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -88,8 +91,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      //image: 'img/docusaurus-social-card.jpg',
       navbar: {
         //title: 'Q-net-Q', // written next to the logo
         logo: {
@@ -117,11 +118,6 @@ const config = {
             label: 'Research & Development',
           },
           { to: '/news', label: 'News', position: 'left' },
-          /* {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          }, */
           {
             type: 'localeDropdown',
             position: 'right',
@@ -130,34 +126,25 @@ const config = {
       },
       footer: {
         style: 'dark',
+        logo: {
+          alt: 'University of Applied Sciences Nordhausen',
+          src: 'img/hsn-logo-white.svg',
+          // href: 'https://www.hs-nordhausen.de',
+        },
         links: [
           {
-            title: 'Legal',
             items: [
-              {
-                label: 'Imprint',
-                href: '/footer/imprint',
-              },
               {
                 label: 'Privacy',
                 href: '/footer/privacy',
               },
               {
+                label: 'Imprint',
+                href: '/footer/imprint',
+              },
+              {
                 label: 'Contact',
                 href: '/footer/contact',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'HS Nordhausen',
-                href: 'https://www.hs-nordhausen.de/aktuelles/pressemitteilungen/news-presse-details/2028-auf-der-zukuenftigen-quantenautobahn-fuehrt-kein-weg-mehr-an-thueringen-vorbei/aeedcde2629937684b7dd308079c1b21/',
-              },
-              {
-                label: 'BMBF',
-                href: 'https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/q-net-q',
               },
             ],
           },
