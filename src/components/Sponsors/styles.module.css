@@ -1,0 +1,34 @@
+.sponsors {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  background-color: white;
+}
+
+.sponsorImage {
+  width: auto;
+  height: 90px;
+}
+
+.col_sides {
+  display: flex;
+  flex-grow: 2;
+}
+
+.col_middle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 15px 30px;
+}
+
+@media (max-width: 768px) {
+  .col_sides {
+    display: none;
+  }
+
+  .col_middle {
+    width: 100%;
+  }
+}

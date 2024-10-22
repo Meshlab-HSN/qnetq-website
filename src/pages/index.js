@@ -2,7 +2,8 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Partners from '@site/src/components/Partners';
+import Sponsors from '@site/src/components/Sponsors';
 import Translate from '@docusaurus/Translate';
 
 import Heading from '@theme/Heading';
@@ -43,7 +44,9 @@ export default function Home() {
       description="meta-Tag - New hub for quantum communication in Germany to be created in Erfurt / Starting signal for new Q-net-Q research project">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <Partners />
+        <div className='feature_separator'/>
+        <Sponsors />
       </main>
     </Layout>
   );

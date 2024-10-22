@@ -71,7 +71,7 @@ const PartnerList = [
   },
 ];
 
-function Feature({image, alt, description}) {
+function Partner({image, alt, description}) {
   const dynamicClass = useDynamicClass();
   return (
     <div className={clsx('col', dynamicClass)}>
@@ -87,7 +87,7 @@ function Feature({image, alt, description}) {
   );
 }
 
-export default function HomepageFeatures() {
+export default function Partners() {
   return (
     <section className={styles.features}>
       <div className="container">
@@ -96,49 +96,10 @@ export default function HomepageFeatures() {
         </div>
         <div className="row">
           {PartnerList.map((props, idx) => (
-            <Feature key={idx} {...props} />
+            <Partner key={idx} {...props} />
           ))}
         </div>
       </div>
     </section>
   );
 }
-
-// export default function HomepageFeatures() {
-//   return (
-//     <section className={styles.features}>
-//       <div className="container">
-//         <div className="row">
-//           <div className={clsx('col col--1')}></div>
-//           <div className={clsx('col')}>
-//             <div className="text--center">
-//               <img role="img" src="img/topology_overview.png"/>
-//             </div>
-//             <div className="text--center padding-horiz--md">
-
-//             </div>
-//           </div>
-//           <div className={clsx('col col--1')}></div>
-//         </div>
-//       </div>
-//     </section>
-//   );
-// }
-
-
-
-{/* <div className="text--center">
-<img className={styles.featureSvg} role="img" src="img/undraw_docusaurus_mountain.svg"/>
-</div>
-<div className="text--center padding-horiz--md">
-<Heading as="h3">
-  <Translate>
-    Easy to Use
-  </Translate>
-</Heading>
-<p>
-  <Translate>
-    Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.
-  </Translate>
-</p>
-</div> */}
