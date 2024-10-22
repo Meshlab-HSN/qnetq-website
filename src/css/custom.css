@@ -85,6 +85,7 @@
   border: 1px solid #fff;
   border-radius: 4px;
   margin: 10px 0;
+  height: 250px;
 }
 
 .feature_cont .upper {
@@ -94,6 +95,10 @@
 
 .feature_cont .lower {
   padding: 20px;
+}
+
+.lower {
+  font-weight: 600;
 }
 
 .footer__top {

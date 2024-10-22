@@ -5,79 +5,81 @@ import Translate from '@docusaurus/Translate';
 import React from 'react';
 import { useDynamicClass } from './useDynamicClass';
 
-const FeatureList = [
+const PartnerList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    image: '/img/hsn-logo-color.png',
+    alt: "Nordhausen University of Applied Sciences",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Nordhausen University of Applied Sciences
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    image: '/img/iof_logo_small.png',
+    alt: "Fraunhofer Institute for Applied Optics and Precision Engineering",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Fraunhofer Institute for Applied Optics and Precision Engineering
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    image: '/img/hhi_logo.png',
+    alt: "Fraunhofer Institute for Telecommunications, Heinrich-Hertz-Institut",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Fraunhofer Institute for Telecommunications, Heinrich-Hertz-Institut
       </>
     ),
   },
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    image: '/img/tub_logo.png',
+    alt: "Technical University of Berlin",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Technical University of Berlin
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    image: '/img/tum_logo.png',
+    alt: "Technical University of Munich",
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Technical University of Munich
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    image: '/img/de-cix_logo_.png',
+    alt: "DE-CIX Management GmbH",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        DE-CIX Management GmbH
+      </>
+    ),
+  },
+  {
+    image: '/img/fau_logo_small.jpg',
+    alt: "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+    description: (
+      <>
+        Friedrich-Alexander-Universität Erlangen-Nürnberg 
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({image, alt, description}) {
   const dynamicClass = useDynamicClass();
   return (
     <div className={clsx('col', dynamicClass)}>
       <div className='feature_cont'>
         <div className="upper text--center">
-          <Svg className={styles.featureSvg} role="img" />
+          <img src={image} className={styles.featureImage} alt={alt} />
         </div>
         <div className="lower text--center padding-horiz--md">
-          {/* <Heading as="h3">{title}</Heading> */}
           <p>{description}</p>
         </div>
       </div>
@@ -86,12 +88,14 @@ function Feature({Svg, title, description}) {
 }
 
 export default function HomepageFeatures() {
-
   return (
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => (
+          <h1 style={{paddingLeft: 20}}>Partners</h1>
+        </div>
+        <div className="row">
+          {PartnerList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
         </div>
