@@ -4,3 +4,16 @@
     margin: 0 auto;
     position: relative;
 }
+
+.map_cont {
+    height: calc(100% - 60px);
+    width: 70%;
+    margin: 0 auto;
+}
+@media only screen and (max-width: 600px) {
+    .map_cont {
+        height: calc(70% - 60px);
+        width: 100%;
+        padding-top: 20%;
+    }
+  }
