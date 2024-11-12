@@ -5,66 +5,29 @@ description: description here
 
 # Our Team
 
-### Hochschule Nordhausen
+### Nordhausen University of Applied Sciences
 
-Prof. Thomas Huehn
+| Name | Position | Contact|
+|-|-|-|
+| Prof. Dr.-Ing. Thomas Hühn | Consortial Lead / Head of Research | thomas.huehn(at)hs-nordhausen.de |
+| Dr. Yuliia Boiko | Senior Researcher | |
+| Denis Roeper | PhD Student | |
+| Paul Spooren | PhD Student | |
+| Jens Kramer | Administrative Staff | jens.kramer(at)hs-nordhausen.de |
+| Marc Bodenstein | IT-Administrator | marc.bodenstein(at)hs-nordhausen.de |
 
-Dr. Yuliia Boiko
+### Fraunhofer Institute for Telecommunications, Heinrich-Hertz-Institut
 
-Denis Roeper
+### Fraunhofer Institute for Applied Optics and Precision Engineering
 
-Paul Spooren
+### DE-CIX Management GmbH
 
-Jens Kramer
+### Technical University of Berlin
 
-Marc Bodenstein
+### Technical University of Munich
 
-**Kontakt:**
-
-Prof. Thomas Huehn:
-thomas.huehn@hs-nordhausen.de
-
-### Technische Universität München
-
-Dr. Janis Nötzel
-
-Sumit Chaudhary
-
-Marta Forsiuk
-
-**Kontakt:**
-Dr. Janis Nötzel:
-janis.noetzel@tum.de
 
 ### Friedrich-Alexander-Universität Erlangen-Nürnberg
-
-Prof. Dr. Christoph Marquardt
-
-Dr. Dominique Elser
-
-**Kontakt:**
-Dr. Dominique Elser:
-dominique.elser@fau.de
-
-### Technische Universität Berlin
-
-
-
-Prof. Dr. Jean-Pierre Seifert
-
-Dr. Anna Pappa
-
-Dr. Elham Amini
-
-Janka Memmen
-
-Darshit Suratwala
-
-
-**Kontakt:**
-Dr. Elham Amini: elham.amini@tu-berlin.de
-
-
 
 :::caution Caution!
 Stay tuned! Updates will follow soon...
