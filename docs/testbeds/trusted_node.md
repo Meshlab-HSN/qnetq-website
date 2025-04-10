@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-description: description here
 ---
 
 # 1st: Trusted Node
@@ -33,4 +32,4 @@ Goal: To enhance the security and functionality of QKD systems by identifying vu
 
 Realized Use Cases: Trusted QKD-ICT setups that ensure robust security for future quantum communications.
 
-![Image Testbed 1!](/img/testbed_1.jpg)
+![experimental setup testbed 1!](/img/testbed_1.jpg)
