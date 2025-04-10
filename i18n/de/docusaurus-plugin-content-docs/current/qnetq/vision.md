@@ -1,10 +1,19 @@
 ---
 sidebar_position: 1
-description: description here
 ---
 
-# Vision
+# Unsere Vision
 
-:::caution Caution!
-Stay tuned! Updates will follow soon...
-:::
+In einer Zeit zunehmender digitaler Vernetzung sind die Sicherheit und Zuverlässigkeit von Kommunikations- und Netzwerkinfrastrukturen von höchster Bedeutung. Die rasante Digitalisierung von Industrie, Verwaltung und Gesellschaft insgesamt eröffnet nicht nur beispiellose Chancen, sondern bringt auch erhebliche Sicherheitsrisiken mit sich. Besonders sensible Bereiche wie Medizintechnik, kritische Infrastrukturen und industrielle Systeme geraten zunehmend ins Visier hochentwickelter Cyberangriffe. Um diese essenziellen Systeme zu schützen, sind robuste und innovative Lösungen erforderlich, die den wachsenden Anforderungen an Vertraulichkeit, Integrität und Resilienz in der Datenübertragung gerecht werden.
+
+Hinzu kommt die drohende Gefahr durch künftige Quantencomputer, die in der Lage sein könnten, viele der derzeit genutzten kryptografischen Verfahren zu brechen. Klassische kryptografische Methoden wie RSA und ECC stützen sich auf die rechnerische Komplexität bestimmter mathematischer Probleme. Quantencomputer hingegen könnten diese Probleme aufgrund ihrer überlegenen Rechenleistung effizient lösen und damit die Sicherheit heutiger Verfahren untergraben. Dieser bevorstehende Paradigmenwechsel verdeutlicht die Dringlichkeit, quantenresistente Lösungen zu erforschen, um die digitale Infrastruktur zukunftssicher zu gestalten.
+
+An der Spitze dieser Innovationen steht die Quantenkommunikation – insbesondere die Quantum Key Distribution (QKD), die einen revolutionären Ansatz zur Absicherung von Netzwerken auf Basis der Prinzipien der Quantenmechanik bietet. Im Gegensatz zu klassischen kryptografischen Methoden gewährleistet QKD Sicherheit durch die unveränderlichen Gesetze der Physik und schafft damit ein grundlegend neues Sicherheitsniveau für die Datenübertragung. In einer Welt, in der Quantencomputer herkömmliche Verschlüsselung obsolet machen, wird die physikalische Sicherheit von QKD zur Notwendigkeit, nicht nur zur Option.
+
+Damit diese Technologie jedoch breite Anwendung findet, muss sie nahtlos in bestehende Informations- und Kommunikationstechnologien (IKT) integriert werden, die das heutige digitale Ökosystem tragen. Die Vorbereitung auf eine quantensichere Zukunft erfordert nicht nur die Einführung quantenbasierter Kommunikationstechnologien, sondern auch eine koordinierte Entwicklung hybrider Lösungen – eine Kombination aus klassischen und quantenresistenten kryptografischen Verfahren – um einen reibungslosen Übergang und fortwährendes Vertrauen zu gewährleisten.
+
+Unsere Vision ist es, die Lücke zwischen Quantenkommunikationstechnologien und aktuellen IKT-Systemen zu schließen und so einen transformativen Wandel hin zu sicheren, resilienten und zukunftsfähigen Netzwerken zu fördern. Mit Q-net-Q wollen wir einen systematischen Technologietransfer ermöglichen, der das Zusammenwirken von Quanten- und klassischen Kommunikationssystemen unterstützt. Durch die Entwicklung interoperabler Schnittstellen und die Implementierung von QKD-Systemen in vielfältigen realen Anwendungsszenarien streben wir ein sicheres digitales Ökosystem an, das den spezifischen Anforderungen urbaner und ländlicher Räume sowie spezieller Anwendungsbereiche wie Gesundheitswesen, Rechenzentrumsvernetzung und QKD-Fernverbindungen gerecht wird.
+
+Diese Vision reicht über die technologische Integration hinaus: Sie zielt darauf ab, neue Maßstäbe für Netzstabilität, Skalierbarkeit und Zugänglichkeit zu setzen. Durch die Einrichtung von Testfeldern innerhalb bestehender Kommunikationsinfrastrukturen schaffen wir ein lebendiges Labor für die Erprobung und Validierung quantengestützter IKT-Systeme. Diese Testumgebungen sind ein entscheidender Schritt hin zur Einbettung von Quantentechnologien in eine umfassendere europäische Quantenkommunikationsinfrastruktur (EuroQCI) und leisten so einen Beitrag zu einem sicheren, vernetzten Europa.
+
+Unser Engagement geht über die Weiterentwicklung von Quantentechnologie hinaus – es geht um technologische Souveränität und die Stärkung der digitalen Resilienz Deutschlands und Europas. Durch die Förderung der Zusammenarbeit zwischen IKT-Experten, Quantenphysikern und relevanten Stakeholdern wollen wir eine führende Rolle beim Aufbau von Netzwerken übernehmen, die nicht nur den heutigen Anforderungen gerecht werden, sondern auch die Herausforderungen von morgen antizipieren. Mit QKD als Grundpfeiler ist es unser Ziel, die digitalen Grundlagen unserer Gesellschaft dauerhaft robust, sicher und vertrauenswürdig zu gestalten – für heutige und künftige Generationen.

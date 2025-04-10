@@ -1,19 +1,7 @@
 {
-  "link.item.label.HS Nordhausen": {
-    "message": "HS Nordhausen",
-    "description": "The label of footer link with label=HS Nordhausen linking to https://www.hs-nordhausen.de/aktuelles/pressemitteilungen/news-presse-details/2028-auf-der-zukuenftigen-quantenautobahn-fuehrt-kein-weg-mehr-an-thueringen-vorbei/aeedcde2629937684b7dd308079c1b21/"
-  },
   "copyright": {
     "message": "Copyright © 2024 - Hochschule Nordhausen",
     "description": "The footer copyright"
-  },
-  "link.title.Legal": {
-    "message": "Rechtliches",
-    "description": "The title of the footer links column with title=Legal in the footer"
-  },
-  "link.title.More": {
-    "message": "Mehr",
-    "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Contact": {
     "message": "Kontakt",
@@ -23,12 +11,12 @@
     "message": "Impressum",
     "description": "The label of footer link with label=Imprint linking to /footer/imprint"
   },
-  "link.item.label.BMBF": {
-    "message": "BMBF",
-    "description": "The label of footer link with label=BMBF linking to https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/q-net-q"
-  },
   "link.item.label.Privacy": {
     "message": "Datenschutz",
     "description": "The label of footer link with label=Privacy linking to /footer/privacy"
+  },
+  "logo.alt": {
+    "message": "Hochschule Nordhausen",
+    "description": "The alt text of footer logo"
   }
 }
