@@ -99,12 +99,7 @@ const config = {
           srcDark: 'img/q-net-q_dm.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'qnetqSidebar',
-            position: 'left',
-            label: 'About',
-          },
+          { to: '/news', label: 'News', position: 'left' },
           {
             type: 'docSidebar',
             sidebarId: 'testbedsSidebar',
@@ -117,7 +112,12 @@ const config = {
             position: 'left',
             label: 'Research & Development',
           },
-          { to: '/news', label: 'News', position: 'left' },
+          {
+            type: 'docSidebar',
+            sidebarId: 'qnetqSidebar',
+            position: 'left',
+            label: 'About',
+          },
           {
             type: 'localeDropdown',
             position: 'right',
