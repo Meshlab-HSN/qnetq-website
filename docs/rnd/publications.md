@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-description: description here
 ---
 
 # Publications
@@ -10,7 +9,7 @@ description: description here
 
 Davide Li Calsi, Sumit Chaudhary, JinHyeock Choi, Marc Geitz, Janis Nötzel
 
-[Read more...](https://arxiv.org/abs/2411.17547)
+[Reference](https://arxiv.org/abs/2411.17547)
 
 ---
 
@@ -19,6 +18,6 @@ Davide Li Calsi, Sumit Chaudhary, JinHyeock Choi, Marc Geitz, Janis Nötzel
 
 Sumit Chaudhary, Shahram Dehdashti, Igor Litvin, Janis Nötzel
 
-[Read more...](https://arxiv.org/abs/2411.16942)
+[Reference](https://arxiv.org/abs/2411.16942)
 
 ---
