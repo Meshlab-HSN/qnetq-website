@@ -14,6 +14,6 @@ enough to break today’s encryption methods—Quantum Key Distribution
 holds great potential, its current area of application remains limited.
 Chief Information Security Officers (CISOs) have legitimate concerns 
 regarding security, cost, scalability, and integration. Early engagement
-ith quantum technologies is essential to counter future threats.
+with quantum technologies is essential to counter future threats.
 
 [Press release from csoonline](https://www.csoonline.com/article/3846875/quantenschlussel-aus-der-sicht-des-ciso.html)
