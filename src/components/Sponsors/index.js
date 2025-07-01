@@ -12,7 +12,7 @@ export default function Sponsors() {
         <div className="row">
           <div className={styles.col_sides} />
           <div className={styles.col_middle}>
-            <img src='/img/bmbf_logo.png' className={styles.sponsorImage} alt="German Federal Ministry of Education and Research" />
+            <img src='/img/bmftr_logo.png' className={styles.sponsorImage} alt="German Federal Ministry of Education and Research" />
           </div>
           <div className={styles.col_middle}>
             <img src='/img/eu_logo.jpg' className={styles.sponsorImage} alt="European Union" />
