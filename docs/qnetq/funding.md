@@ -14,6 +14,6 @@ This investment supports Q-net-Q’s mission to develop and demonstrate quantum-
 
 The Digital Europe Programme is a cornerstone initiative by the European Commission to reinforce Europe’s digital capacities in areas such as cybersecurity, high-performance computing, artificial intelligence, and advanced digital skills. By funding Q-net-Q, the EU recognizes the project’s potential to contribute significantly to the future of quantum communication across member states.
 
-## National Support – Germany
+## German Federal Contribution
 
 The Federal Ministry of Research, Technology and Space (BMFTR) is a co-financer of the project, emphasizing the national strategic interest in fostering quantum technologies. This support highlights Germany’s role as a leader in quantum research and its commitment to integrating quantum security into public and private communication infrastructure.

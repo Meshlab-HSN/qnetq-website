@@ -14,6 +14,6 @@ Diese Investition unterstützt die Mission von Q-net-Q, eine quantengesicherte K
 
 Das Digitalprogramm Europa ist eine zentrale Initiative der Europäischen Kommission zur Stärkung der digitalen Kapazitäten Europas in Bereichen wie Cybersicherheit, Hochleistungsrechnen, Künstliche Intelligenz und fortgeschrittene digitale Kompetenzen. Mit der Förderung von Q-net-Q erkennt die EU das Potenzial des Projekts an, einen bedeutenden Beitrag zur Zukunft der Quantenkommunikation in den Mitgliedstaaten leisten zu können.
 
-## Nationale Unterstützung – Deutschland
+## Beitrag der Bundesrepublik Deutschland
 
 Das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) ist Kofinanzierer des Projekts und betont damit das nationale strategische Interesse an der Förderung quantentechnologischer Entwicklungen. Diese Unterstützung unterstreicht Deutschlands Rolle als führende Nation in der Quantenforschung und das Engagement, Quanten­sicherheit in öffentliche und private Kommunikationsinfrastrukturen zu integrieren.
