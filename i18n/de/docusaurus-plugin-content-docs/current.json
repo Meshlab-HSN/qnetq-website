@@ -7,16 +7,8 @@
     "message": "Software",
     "description": "The label for category Software in sidebar rndSidebar"
   },
-  "sidebar.rndSidebar.category.Software.link.generated-index.description": {
-    "message": "short description here",
-    "description": "The generated-index page description for category Software in sidebar rndSidebar"
-  },
   "sidebar.rndSidebar.category.Infrastructure": {
     "message": "Infrastructure",
     "description": "The label for category Infrastructure in sidebar rndSidebar"
-  },
-  "sidebar.rndSidebar.category.Infrastructure.link.generated-index.description": {
-    "message": "short description here",
-    "description": "The generated-index page description for category Infrastructure in sidebar rndSidebar"
   }
 }
