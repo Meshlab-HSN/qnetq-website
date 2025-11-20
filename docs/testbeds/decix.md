@@ -5,9 +5,10 @@ description: description here
 
 # 2nd: Datacenter DECIX
 
-Unser zweites Testfeld konzentriert sich auf die Evaluierung von QKD-Diensten innerhalb eines Internetknotens (IXP), genauer gesagt zwischen verschiedenen Rechenzentren am DE-CIX in Frankfurt. Der DE-CIX ist der größte Internetknoten Europas und bietet eine ideale Umgebung, um verschiedene Ansätze und Definitionen für Local-Area-QKD-Netzwerkdienste und APIs für Rechenzentren und Peering-Punkte zu bewerten. Die Schwerpunkte dieses Testfeldes sind:
+Our second test field focuses on the evaluation of QKD services within an Internet exchange point (IXP), more specifically between different data centers at DE-CIX in Frankfurt. DE-CIX is Europe's largest Internet exchange point and provides an ideal environment for evaluating different approaches and definitions for local-area QKD network services and APIs for data centers and peering points. The focus of this test field is:
 
-- Entwicklung praktischer Strategien zur Integration und zum Rollout von QKD-Systemen im Rechenzentrumskontext.
-- Evaluierung von Multi-Tenant-Netzwerkanwendungen, die über Rechenzentrumsstandorte verteilt sind.
-- Analyse der Skalierbarkeit und Performance von QKD-gesicherten Peering-Links, die auf eine europaweite Verteilung ausgedehnt werden können.
-- Software-definierte Ressourcenzuweisung von quantensicheren Schlüsseln über Peering-Links zwischen Telekommunikationsinfrastruktur-Anbietern.
+- Developing practical strategies for integrating and rolling out QKD systems in a data center context.
+- Evaluating multi-tenant network applications distributed across data center locations.
+- Analyzing the scalability and performance of QKD-secured peering links that can be extended to a Europe-wide distribution.
+- Software-defined resource allocation of quantum-secure keys via peering links between telecommunications infrastructure providers 
+
