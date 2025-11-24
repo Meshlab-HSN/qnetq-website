@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+![Header Picture!](/img/GITrepositories.jpeg.)
+
 # GIT repositories
 
 ## Collaboration and version control
