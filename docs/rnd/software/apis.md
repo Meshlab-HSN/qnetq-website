@@ -4,6 +4,6 @@ sidebar_position: 2
 
 # API's
 
-## Schnittstellen für Interoperabilität
+## Interfaces for interoperability
 
-Die Entwicklung standardisierter APIs (Application Programming Interfaces) ist ein Kernaspekt, um die Interoperabilität zwischen den verschiedenen QKD-Systemen und den bestehenden IKT-Infrastrukturen zu gewährleisten. Diese Schnittstellen ermöglichen es, QKD-Module nahtlos in bestehende Netzwerkmanagement-Systeme und Anwendungen zu integrieren. Wir entwickeln APIs, die den Austausch von Quantenschlüsseln, die Überwachung des Systemstatus und die Konfiguration von QKD-Parametern standardisieren. Dies ist ein entscheidender Schritt, um die Skalierbarkeit und Flexibilität der Quantenkommunikationsnetze zu erhöhen und die Entwicklung neuer Anwendungen zu erleichtern.
+The development of standardized APIs (application programming interfaces) is a key aspect of ensuring interoperability between the various QKD systems and existing ICT infrastructures. These interfaces enable QKD modules to be seamlessly integrated into existing network management systems and applications. We are developing APIs that standardize the exchange of quantum keys, monitoring of system status, and configuration of QKD parameters. This is a crucial step toward increasing the scalability and flexibility of quantum communication networks and facilitating the development of new applications.
