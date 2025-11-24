@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+![Header Picture!](/img/Publications.jpeg.)
+
 # Publications
 
 ### End-to-end QKD network with non-localized trust
