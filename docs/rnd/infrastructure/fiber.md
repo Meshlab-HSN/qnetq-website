@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+![Header Picture!](/img/Fiberinfrastructure.jpeg.)
+
 # Fiber infrastructure
 
 ## The medium of quantum communication
