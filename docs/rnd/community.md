@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+![Header Picture!](/img/Community.jpeg.)
+
 # Community
 
 ### Workshop on EACN 2025
