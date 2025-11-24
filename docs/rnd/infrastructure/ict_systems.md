@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+![Header Picture!](/img/ICTSystems.jpeg.)
+
 # ICT Systems
 
 ## Integration into existing networks
