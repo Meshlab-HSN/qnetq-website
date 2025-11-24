@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-![Header Picture !](/img/Trusted Note.jpeg)
+![Header Picture!](/img/TrustedNote.jpeg)
 
 # 1st: Trusted Node
 
