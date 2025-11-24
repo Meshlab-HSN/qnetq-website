@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+![Header Picture !](/img/Trusted Note.jpeg)
+
 # 1st: Trusted Node
 
 ## Entanglement-Based Multiparty QKD System
