@@ -4,30 +4,30 @@ sidebar_position: 0.5
 
 # Overview
 
-Das Q-net-Q Projekt ist nicht nur auf die Integration der Quantenschlüsselverteilung (QKD) in bestehende IKT-Netze fokussiert, sondern treibt auch die wissenschaftliche Forschung und Entwicklung in diesem zukunftsweisenden Feld maßgeblich voran. Unser Ansatz kombiniert theoretische Analysen mit praktischer Erprobung in realen Testfeldern, um die Grenzen der Quantenkommunikation zu erweitern und neue Anwendungen zu erschließen.
+The Q-net-Q project not only focuses on integrating quantum key distribution (QKD) into existing ICT networks, but also significantly advances scientific research and development in this forward-looking field. Our approach combines theoretical analysis with practical testing in real-world test fields to push the boundaries of quantum communication and open up new applications.
 
-## Wissenschaftliche Ziele und Erweiterung der Protokolle
+## Scientific goals and expansion of protocols
 
-Über die reine QKD hinaus untersuchen wir im Rahmen von Q-net-Q die Implementierung weiterer Quantenprotokolle auf unseren Testfeldern. Vielversprechende Kandidaten sind unter anderem Coin Flipping, Bit Commitment, Oblivious Transfer und Digitale Signaturen. Ziel ist es, die notwendigen Hardware- und Softwareanpassungen zu identifizieren, um ein agileres Testfeld zu schaffen, das eine breitere Palette praktischer Aufgaben bewältigen kann. Diese Forschung ist entscheidend, um die Vielseitigkeit und Anwendbarkeit der Quantenkommunikation über die reine Schlüsselverteilung hinaus zu demonstrieren.
+Beyond pure QKD, we are investigating the implementation of additional quantum protocols in our test fields as part of Q-net-Q. Promising candidates include coin flipping, bit commitment, oblivious transfer, and digital signatures. The goal is to identify the necessary hardware and software adaptations to create a more agile test field that can handle a wider range of practical tasks. This research is crucial to demonstrate the versatility and applicability of quantum communication beyond pure key distribution.
 
-## Umfassende Sicherheitsanalyse und Zertifizierung
+## Comprehensive security analysis and certification
 
-Ein zentraler Pfeiler von Q-net-Q ist die umfassende Sicherheitsanalyse der integrierten QKD-Hardware von Partnern wie FhG HHI und IOF. Wir untersuchen, wie diese Systeme aus Sicherheitssicht in bestehende Kommunikationsnetze integriert werden können. Eine detaillierte Sicherheitsanalyse aus der Perspektive eines Angreifers ist dabei von höchster Bedeutung. Die gewonnenen Erkenntnisse fließen direkt in die Ableitung von Verbesserungen und Härtungen potenzieller Produkte ein, um eine spätere IT-Sicherheitszertifizierung zu erleichtern. Dies gewährleistet, dass die entwickelten Lösungen den höchsten Sicherheitsstandards entsprechen.
+A central pillar of Q-net-Q is the comprehensive security analysis of integrated QKD hardware from partners such as FhG HHI and IOF. We are investigating how these systems can be integrated into existing communication networks from a security perspective. A detailed security analysis from an attacker's perspective is of utmost importance. The insights gained are directly incorporated into the derivation of improvements and hardening of potential products to facilitate subsequent IT security certification. This ensures that the developed solutions meet the highest security standards.
 
-## Software-Entwicklung: Bausteine für die Quantenkommunikation
+## Software development: Building blocks for quantum communication
 
-Die Software-Entwicklung spielt eine entscheidende Rolle bei der Integration und dem Betrieb von Quantenkommunikationssystemen. Im Q-net-Q Projekt konzentrieren wir uns auf die Entwicklung robuster und flexibler Softwarelösungen, die den Technologietransfer von der Forschung in die Anwendung ermöglichen.
+Software development plays a crucial role in the integration and operation of quantum communication systems. In the Q-net-Q project, we focus on developing robust and flexible software solutions that enable technology transfer from research to application.
 
-## Infrastruktur: Die physische Basis der Quantensicherheit
+## Infrastructure: The physical basis of quantum security
 
-Die physische Infrastruktur bildet das Rückgrat für die Erforschung und Implementierung der Quantenkommunikation. Q-net-Q legt großen Wert auf die Entwicklung und Anpassung von Infrastrukturkomponenten, um die Leistungsfähigkeit und Zuverlässigkeit der Quantenschlüsselverteilung zu maximieren.
+The physical infrastructure forms the backbone for research and implementation of quantum communication. Q-net-Q attaches great importance to the development and adaptation of infrastructure components in order to maximize the performance and reliability of quantum key distribution.
 
-## Technologietransfer und Ausbildung
+## Technology transfer and training
 
-Die Verwertung der Forschungsergebnisse konzentriert sich auf zwei Hauptbereiche: Lehre und technologische Souveränität im Bereich der Quantentechnologien. Das Projekt bietet eine einzigartige Gelegenheit, Daten in einem Live-Testfeld zu sammeln und für akademische Zwecke aufzubereiten. Diese Daten werden genutzt, um die Forschung zur Koexistenz von Quantentechnologielösungen mit bestehenden Netzwerken zu verbessern. Die Software QuNetSim (TUM) wird eingesetzt, um die Ausbildung zukünftiger Ingenieure und Forscher in der Quantentechnologie systematisch zu verbessern.
+The exploitation of research results focuses on two main areas: teaching and technological sovereignty in the field of quantum technologies. The project offers a unique opportunity to collect data in a live test field and prepare it for academic purposes. This data will be used to improve research on the coexistence of quantum technology solutions with existing networks. The QuNetSim (TUM) software is used to systematically improve the training of future engineers and researchers in quantum technology.
 
-Für Quantenwissenschaftler, IKT-Administratoren und Anwender verschiedener Disziplinen soll die Möglichkeit geschaffen werden, Interoperabilitätsevaluierungen zur Leistung und Stabilität verschiedener Quantenquellen und -detektoren durchzuführen. Zudem werden neue Methoden zur Interaktionsanalyse zwischen optischen IKT- und Quantenkomponenten sowie zur kosteneffizienten Integration von Quantenkommunikationsprotokollen erforscht. Die interdisziplinären Kompetenzen der Netzwerkpartner schaffen optimale Bedingungen für den erfolgreichen Einsatz photonenbasierter Quantenübertragungsverfahren, deren technischen Betrieb auf bestehenden IKT-Infrastrukturen, offene und flexible Experimentier- und Analyseoptionen sowie die Gewährleistung hoher Datensicherheits- und Datenschutzstandards.
+Quantum scientists, ICT administrators, and users from various disciplines will be given the opportunity to perform interoperability evaluations of the performance and stability of various quantum sources and detectors. In addition, new methods for analyzing interactions between optical ICT and quantum components and for the cost-efficient integration of quantum communication protocols will be researched. The interdisciplinary expertise of the network partners creates optimal conditions for the successful deployment of photon-based quantum transmission methods, their technical operation on existing ICT infrastructures, open and flexible experimentation and analysis options, and the assurance of high data security and privacy standards.
 
-## Beitrag zur EuroQCI-Initiative
+## Contribution to the EuroQCI initiative
 
-Durch den engen und kontinuierlichen Austausch mit den Partnern der EuroQCI-Initiative stellen wir sicher, dass die Forschungsergebnisse von Q-net-Q direkt in den Aufbau einer europaweiten Quantenkommunikationsinfrastruktur einfließen. Dies stärkt nicht nur die technologische Souveränität Deutschlands, sondern leistet auch einen entscheidenden Beitrag zur digitalen Sicherheit Europas.
+Through close and continuous exchange with the partners of the EuroQCI initiative, we ensure that the research results of Q-net-Q flow directly into the development of a Europe-wide quantum communication infrastructure. This not only strengthens Germany's technological sovereignty, but also makes a decisive contribution to Europe's digital security.
