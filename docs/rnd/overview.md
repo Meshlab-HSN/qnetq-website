@@ -2,6 +2,8 @@
 sidebar_position: 0.5
 ---
 
+![Header Picture!](/img/Publications.jpeg.)
+
 # Overview
 
 The Q-net-Q project not only focuses on integrating quantum key distribution (QKD) into existing ICT networks, but also significantly advances scientific research and development in this forward-looking field. Our approach combines theoretical analysis with practical testing in real-world test fields to push the boundaries of quantum communication and open up new applications.
