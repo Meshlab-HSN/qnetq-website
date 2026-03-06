@@ -1,6 +1,5 @@
 ---
 sidebar_position: 2
-description: description here
 sidebar_label: "2.: Datacenter DECIX"
 ---
 

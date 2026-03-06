@@ -1,6 +1,5 @@
 ---
 sidebar_position: 3
-description: description here
 sidebar_label: "3rd: WAN Link"
 ---
 
