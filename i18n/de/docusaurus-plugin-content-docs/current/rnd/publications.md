@@ -1,6 +1,9 @@
 ---
 sidebar_position: 1
+sidebar_label: "Veröffentlichungen"
 ---
+
+![Header Picture!](/img/Publications.jpeg)
 
 # Veröffentlichungen
 

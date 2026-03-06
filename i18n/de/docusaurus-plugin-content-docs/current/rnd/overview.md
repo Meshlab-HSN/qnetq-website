@@ -1,6 +1,9 @@
 ---
 sidebar_position: 0.5
+sidebar_label: "Übersicht"
 ---
+
+![Header Picture!](/img/Publications.jpeg)
 
 # Übersicht
 

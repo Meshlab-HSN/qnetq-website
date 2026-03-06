@@ -1,7 +1,9 @@
 ---
 sidebar_position: 3
-description: description here
+sidebar_label: "3.: WAN Link"
 ---
+
+![Header Picture!](/img/WANLink.jpeg)
 
 # 3.: WAN Link
 

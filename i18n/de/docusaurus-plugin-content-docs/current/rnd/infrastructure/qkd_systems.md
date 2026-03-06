@@ -1,6 +1,10 @@
 ---
 sidebar_position: 1
+sidebar_label: "QKD Systeme"
+description: "Herzstück der Quantensicherheit"
 ---
+
+![Header Picture!](/img/QKDSystems.jpeg)
 
 # QKD Systeme
 
