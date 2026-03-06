@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+sidebar_label: "API's"
+description: "interfaces for interoperability"
 ---
 
 ![Header Picture!](/img/APIs.jpeg)

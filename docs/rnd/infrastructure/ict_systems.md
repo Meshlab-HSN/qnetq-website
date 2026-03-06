@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+sidebar_label: "ICT Systems"
+description: "integration into existing networks"
 ---
 
 ![Header Picture!](/img/ICTSystems.jpeg)

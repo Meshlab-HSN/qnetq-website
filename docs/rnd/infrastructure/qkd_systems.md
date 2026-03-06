@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+sidebar_label: "QKD Systems"
+description: "the heart of quantum security"
 ---
 
 ![Header Picture!](/img/QKDSystems.jpeg)

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+sidebar_label: "Publications"
 ---
 
 ![Header Picture!](/img/Publications.jpeg)

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 description: description here
+sidebar_label: "2nd: Datacenter DECIX"
 ---
 
 ![Header Picture!](/img/DatacenterDECIX.jpeg)

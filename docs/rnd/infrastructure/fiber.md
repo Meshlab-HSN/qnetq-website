@@ -1,10 +1,12 @@
 ---
 sidebar_position: 3
+sidebar_label: "Fiber Infrastructure"
+description: "the medium of quantum communication"
 ---
 
 ![Header Picture!](/img/Fiberinfrastructure.jpeg)
 
-# Fiber infrastructure
+# Fiber Infrastructure
 
 ## The medium of quantum communication
 
