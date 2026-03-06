@@ -1,9 +1,13 @@
 ---
 sidebar_position: 3
+sidebar_label: "Fiber Infrastructure"
+description: "the medium of quantum communication"
 ---
 
-# Fiber infrastructure
+![Header Picture!](/img/Fiberinfrastructure.jpeg)
 
-## Das Medium der Quantenkommunikation
+# Fiber Infrastructure
 
-Die Glasfaserinfrastruktur dient als primäres Medium für die Übertragung von Quantenschlüsseln. Wir untersuchen die Nutzung bestehender Glasfasernetze und deren Eignung für die Quantenkommunikation. Dies beinhaltet die Analyse von Dämpfung, Dispersion und anderen physikalischen Effekten, die die Qualität der Quantenübertragung beeinflussen können. Darüber hinaus erforschen wir innovative Ansätze zur Optimierung der Glasfaserinfrastruktur, um die Reichweite und Effizienz der QKD zu erhöhen, beispielsweise durch die Nutzung von Dark Fiber oder die Koexistenz mit klassischen Datenkanälen auf derselben Faser.
+## The medium of quantum communication
+
+Fiber optic infrastructure serves as the primary medium for the transmission of quantum keys. We are investigating the use of existing fiber optic networks and their suitability for quantum communication. This includes analyzing attenuation, dispersion, and other physical effects that can influence the quality of quantum transmission. In addition, we are researching innovative approaches to optimizing fiber optic infrastructure in order to increase the range and efficiency of QKD, for example by using dark fiber or coexisting with classical data channels on the same fiber.

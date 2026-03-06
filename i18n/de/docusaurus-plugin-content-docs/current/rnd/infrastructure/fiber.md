@@ -1,6 +1,10 @@
 ---
 sidebar_position: 3
+sidebar_label: "Glasfaser Infrastruktur"
+description: "Das Medium der Quantenkommunikation"
 ---
+
+![Header Picture!](/img/Fiberinfrastructure.jpeg)
 
 # Glasfaser Infrastruktur
 

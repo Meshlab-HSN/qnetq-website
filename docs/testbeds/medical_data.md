@@ -1,8 +1,10 @@
 ---
 sidebar_position: 4
-description: description here
+sidebar_label: "4th: Medical Data"
 ---
+
+![Header Picture!](/img/MedicalData.jpeg)
 
 # 4th: Medical Data
 
-Das vierte Testfeld konzentriert sich auf die Evaluierung einer effizienten QKD-Netzintegration in ländlichen Gebieten zur Sicherung des telemedizinischen Datenaustauschs. Der sichere und schnelle digitale Austausch von Patienten- und Gesundheitsdaten ist ein entscheidender Bestandteil der Informationssicherheit, insbesondere in medizinischen Umgebungen und Krankenhäusern. Der Fokus dieses Testfeldes liegt auf der Realisierung einer quantengesicherten telemedizinischen Verbindung zwischen dem Universitätsklinikum Jena über Erfurt und dem urbanen Raum um Sundhausen. In dieser E-Health-Station können Patienten und Ärzte in einer sicheren und vertrauenswürdigen Umgebung Gesundheitsinformationen austauschen. Erste Anwendungsfälle umfassen die Früherkennung von Demenz und Krebsprävention sowie die Nutzung telemedizinischer Softwareanwendungen. Es ist geplant, die Schnittstelle verschiedener Netzwerke an einem Verbindungspunkt in Erfurt zu untersuchen und die Informationsübertragung vom telemedizinischen Netzwerk zu einem simulierten Regierungs-/Krankenversicherungsnetzwerk sowie dynamische Glasfasertopologien zu simulieren. Dieses Testfeld ist Teil der Thüringer Quantenkommunikationsinfrastruktur-Initiative. 
+The fourth test field focuses on the evaluation of efficient QKD network integration in rural areas to secure telemedicine data exchange. The secure and fast digital exchange of patient and health data is a crucial component of information security, especially in medical environments and hospitals. This test field focuses on the implementation of a quantum-secured telemedicine connection between the University Hospital of Jena via Erfurt and the urban area around Sundhausen. In this e-health station, patients and doctors can exchange health information in a secure and trustworthy environment. Initial use cases include the early detection of dementia and cancer prevention, as well as the use of telemedicine software applications. The plan is to investigate the interface of different networks at a connection point in Erfurt and to simulate the transmission of information from the telemedicine network to a simulated government/health insurance network, as well as dynamic fiber optic topologies. This test field is part of the Thuringian Quantum Communication Infrastructure Initiative.

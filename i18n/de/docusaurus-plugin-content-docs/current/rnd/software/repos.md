@@ -1,6 +1,10 @@
 ---
 sidebar_position: 1
+sidebar_label: "GIT Repositories"
+description: "Kollaboration und Versionskontrolle"
 ---
+
+![Header Picture!](/img/GITrepositories.jpeg)
 
 # GIT Repositories
 

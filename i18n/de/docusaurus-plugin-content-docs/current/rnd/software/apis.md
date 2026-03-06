@@ -1,6 +1,10 @@
 ---
 sidebar_position: 2
+sidebar_label: "API's"
+description: "Schnittstellen für Interoperabilität"
 ---
+
+![Header Picture!](/img/APIs.jpeg)
 
 # API's
 

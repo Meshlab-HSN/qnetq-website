@@ -1,7 +1,9 @@
 ---
 sidebar_position: 4
-description: description here
+sidebar_label: "4.: Medizindaten"
 ---
+
+![Header Picture!](/img/MedicalData.jpeg)
 
 # 4.: Medizindaten
 

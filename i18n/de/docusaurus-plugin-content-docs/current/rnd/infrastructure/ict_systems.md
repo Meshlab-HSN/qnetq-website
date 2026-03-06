@@ -1,6 +1,10 @@
 ---
 sidebar_position: 2
+sidebar_label: "IKT Systeme"
+description: "Integration in bestehende Netze"
 ---
+
+![Header Picture!](/img/ICTSystems.jpeg)
 
 # IKT Systeme
 

@@ -1,7 +1,9 @@
 ---
 sidebar_position: 1
-description: description here
+sidebar_label: "1.: Trusted Node"
 ---
+
+![Header Picture!](/img/TrustedNote.jpeg)
 
 # 1.: Trusted Node
 
