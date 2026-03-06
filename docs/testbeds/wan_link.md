@@ -3,7 +3,7 @@ sidebar_position: 3
 description: description here
 ---
 
-![Header Picture!](/img/WANLink.jpeg.)
+![Header Picture!](/img/WANLink.jpeg)
 
 # 3rd: WAN Link
 

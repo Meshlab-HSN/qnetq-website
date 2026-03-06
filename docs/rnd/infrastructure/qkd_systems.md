@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-![Header Picture!](/img/QKDSystems.jpeg.)
+![Header Picture!](/img/QKDSystems.jpeg)
 
 # QKD Systems
 

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-![Header Picture!](/img/ICTSystems.jpeg.)
+![Header Picture!](/img/ICTSystems.jpeg)
 
 # ICT Systems
 

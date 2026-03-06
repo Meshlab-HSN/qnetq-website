@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-![Header Picture!](/img/Publications.jpeg.)
+![Header Picture!](/img/Publications.jpeg)
 
 # Publications
 

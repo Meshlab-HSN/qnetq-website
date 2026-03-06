@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-![Header Picture!](/img/Fiberinfrastructure.jpeg.)
+![Header Picture!](/img/Fiberinfrastructure.jpeg)
 
 # Fiber infrastructure
 

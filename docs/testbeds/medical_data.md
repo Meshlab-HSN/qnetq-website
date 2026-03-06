@@ -3,7 +3,7 @@ sidebar_position: 4
 description: description here
 ---
 
-![Header Picture!](/img/MedicalData.jpeg.)
+![Header Picture!](/img/MedicalData.jpeg)
 
 # 4th: Medical Data
 

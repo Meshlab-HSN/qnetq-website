@@ -3,7 +3,7 @@ sidebar_position: 2
 description: description here
 ---
 
-![Header Picture!](/img/DatacenterDECIX.jpeg.)
+![Header Picture!](/img/DatacenterDECIX.jpeg)
 
 # 2nd: Datacenter DECIX
 

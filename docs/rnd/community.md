@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-![Header Picture!](/img/Community.jpeg.)
+![Header Picture!](/img/Community.jpeg)
 
 # Community
 

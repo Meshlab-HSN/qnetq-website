@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-![Header Picture!](/img/APIs.jpeg.)
+![Header Picture!](/img/APIs.jpeg)
 
 # API's
 
