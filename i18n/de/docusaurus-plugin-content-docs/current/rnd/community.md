@@ -1,6 +1,9 @@
 ---
 sidebar_position: 4
+sidebar_label: "Community"
 ---
+
+![Header Picture!](/img/Community.jpeg)
 
 # Community
 
