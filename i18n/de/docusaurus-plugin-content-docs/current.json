@@ -5,10 +5,10 @@
   },
   "sidebar.rndSidebar.category.Software": {
     "message": "Software",
-    "description": "The label for category Software in sidebar rndSidebar"
+    "description": "The label for category 'Software' in sidebar 'rndSidebar'"
   },
   "sidebar.rndSidebar.category.Infrastructure": {
     "message": "Infrastructure",
-    "description": "The label for category Infrastructure in sidebar rndSidebar"
+    "description": "The label for category 'Infrastructure' in sidebar 'rndSidebar'"
   }
 }
