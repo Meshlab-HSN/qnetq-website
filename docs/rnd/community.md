@@ -19,3 +19,8 @@ sidebar_label: "Community"
 [Reference](https://2025.ieee-isit.org/call-workshops)
 
 ---
+
+
+### Quantum Security Landscape for IT Decision Makers
+
+[Reference](https://sites.google.com/view/test-qkd-for-it-decison-making/home)
